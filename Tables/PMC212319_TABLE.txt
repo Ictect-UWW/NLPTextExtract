@@ -1,0 +1,55 @@
+name;;;;Li Hai-Sheng
+name;;;;Shome Kuntala
+name;;;;Rojas Raúl
+name;;;;Rizzo Megan A
+name;;;;Vasudevan Chandrasekaran
+name;;;;Fluharty Eric
+name;;;;Santy Lorraine C
+name;;;;Casanova James E
+name;;;;Romero Guillermo
+aff;;;;Departments of Pharmacology,  University of Pittsburgh School of Medicine,Pittsburgh, PA 15261 USA 
+aff;;;;Cell Biology and Physiology,  University of Pittsburgh School of Medicine,Pittsburgh, PA 15261 USA 
+aff;;;;Department of Cell Biology,  University of Virginia School of Medicine,Charlottesville, VA 22908 USA 
+element-citation;;;;Moss J  Vaughan M   Molecules in the ARF orbit J Biol Chem 1998 273 21431 21434 9705267
+element-citation;;;;Chardin P  Paris S  Antonny B  Robineau S  Beraud-Dufour S  Jackson CL  Chabre M   A human exchange factor for ARF contains Sec7- and pleckstrin-homology domains Nature 1996 384 481 484 8945478
+element-citation;;;;Klarlund JK  Guilherme A  Holik JJ  Virbasius JV  Chawla A  Czech MP   Signaling by phosphoinositide -3,4,5-trisphosphate through proteins containing pleckstrin and Sec7 homology domains Science 1997 275 1927 1930 9072969
+element-citation;;;;Meacci E  Tsai SC  Adamik R  Moss J  Vaughan M   Cytohesin-1, a cytosolic guanine nucleotide-exchange protein for ADP-ribosylation factor Proc Natl Acad Sci U S A 1997 94 1745 1748 9050849
+element-citation;;;;Morinaga N  Moss J  Vaughan M   Cloning and expression of a cDNA encoding a bovine brain brefeldin A-sensitive guanine nucleotide-exchange protein for ADP-ribosylation factor Proc Natl Acad Sci U S A 1997 94 12926 12931 9371777
+element-citation;;;;Peyroche A  Paris S  Jackson CL   Nucleotide exchange on ARF mediated by yeast Gea1 protein Nature 1996 384 479 481 8945477
+element-citation;;;;Venkateswarlu K  Oatey PB  Tavare JM  Cullen PJ   Insulin-dependent translocation of ARNO to the plasma membrane of adipocytes requires phosphatidylinositol 3-kinase Curr Biol 1998 8 463 466 9550703
+element-citation;;;;Venkateswarlu K  Gunn-Moore F  Oatey PB  Tavare JM  Cullen PJ   Nerve growth factor- and epidermal growth factor-stimulated translocation of the ADP-ribosylation factor-exchange factor GRP1 to the plasma membrane of PC12 cells requires activation of phosphatidylinositol 3-kinase and the GRP1 pleckstrin homology domain Biochem J 1998 335 139 146 9742223
+element-citation;;;;Bi K  Roth MG  Ktistakis NT   Phosphatidic acid formation by phospholipase D is required for transport from the endoplasmic reticulum to the Golgi complex Curr Biol 1997 7 301 307 9133344
+element-citation;;;;Ktistakis NT  Brown HA  Sternweis PC  Roth MG   Phospholipase D is present on Golgi-enriched membranes and its activation by ADP ribosylation factor is sensitive to brefeldin A Proc Natl Acad Sci U S A 1995 92 4952 4956 7761430
+element-citation;;;;Billah MM   Phospholipase D and cell signaling Curr Opin Immunol 1993 5 114 123 8383981
+element-citation;;;;Exton JH   Phosphatidylcholine breakdown and signal transduction Biochim Biophys Acta 1994 1212 26 42 8155724
+element-citation;;;;Colley WC  Sung TC  Roll R  Jenco J  Hammond SM  Altshuller Y  Bar-Sagi D  Morris AJ  Frohman MA   Phospholipase D2, a distinct phospholipase D isoform with novel regulatory properties that provokes cytoskeletal reorganization Curr Biol 1997 7 191 201 9395408
+element-citation;;;;Hammond SM  Altshuller YM  Sung TC  Rudge SA  Rose K  Engebrecht J  Morris AJ  Frohman MA   Human ADP-ribosylation factor-activated phosphatidylcholine-specific phospholipase D defines a new and highly conserved gene family J Biol Chem 1995 270 29640 29643 8530346
+element-citation;;;;Lopez I  Arnold RS  Lambeth JD   Cloning and initial characterization of a human phospholipase D2 (hPLD2). ADP-ribosylation factor regulates hPLD2 J Biol Chem 1998 273 12846 12852 9582313
+element-citation;;;;Sung TC  Altshuller YM  Morris AJ  Frohman MA   Molecular analysis of mammalian phospholipase D2 J Biol Chem 1999 274 494 502 9867870
+element-citation;;;;Sung TC  Zhang Y  Morris AJ  Frohman MA   Structural analysis of human phospholipase D1 J Biol Chem 1999 274 3659 3666 9920915
+element-citation;;;;Fensome A  Whatmore J  Morgan C  Jones D  Cockcroft S   ADP-ribosylation factor and Rho proteins mediate fMLP-dependent activation of phospholipase D in human neutrophils J Biol Chem 1998 273 13157 13164 9582356
+element-citation;;;;Karnam P  Standaert ML  Galloway L  Farese RV   Activation and translocation of Rho (and ADP ribosylation factor) by insulin in rat adipocytes. Apparent involvement of phosphatidylinositol 3-kinase J Biol Chem 1997 272 6136 6140 9045624
+element-citation;;;;Malcolm KC  Ross AH  Qiu RG  Symons M  Exton JH   Activation of rat liver phospholipase D by the small GTP-binding protein RhoA J Biol Chem 1994 269 25951 25954 7929302
+element-citation;;;;Rumenapp U  Geiszt M  Wahn F  Schmidt M  Jakobs KH   Evidence for ADP-ribosylation-factor-mediated activation of phospholipase D by m3 muscarinic acetylcholine receptor Eur J Biochem 1995 234 240 244 8529647
+element-citation;;;;Schmidt M  Rumenapp U  Bienek C  Keller J  Eichel-Streiber C  Jakobs KH   Inhibition of receptor signaling to phospholipase D by Clostridium difficile toxin B. Role of Rho proteins J Biol Chem 1996 271 2422 2426 8576201
+element-citation;;;;Shome K  Vasudevan C  Romero G   ARF proteins mediate insulin-dependent activation of phospholipase D Curr Biol 1997 7 387 396 9197239
+element-citation;;;;Shome K  Nie Y  Romero G   ADP-ribosylation factor proteins mediate agonist-induced activation of phospholipase D J Biol Chem 1998 273 30836 30841 9804862
+element-citation;;;;Aoe T  Huber I  Vasudevan C  Watkins SC  Romero G  Cassel D  Hsu VW   The KDEL receptor regulates a GTPase-activating protein for ADP-ribosylation factor 1 by interacting with its non-catalytic domain J Biol Chem 1999 274 20545 20549 10400684
+element-citation;;;;Nagel W  Zeitlmann L  Schilcher P  Geiger C  Kolanus J  Kolanus W   Phosphoinositide 3-OH kinase activates the beta2 integrin adhesion pathway and induces membrane recruitment of cytohesin-1 J Biol Chem 1998 273 14853 14861 9614087
+element-citation;;;;Santy LC  Frank SR  Hatfield JC  Casanova JE   Regulation of ARNO nucleotide exchange by a PH domain electrostatic switch Curr Biol 1999 9 1173 1176 10531036
+element-citation;;;;Kolanus W  Nagel W  Schiller B  Zeitlmann L  Godar S  Stockinger H  Seed B   Alpha L beta 2 integrin/LFA-1 binding to ICAM-1 induced by cytohesin-1, a cytoplasmic regulatory molecule Cell 1996 86 233 242 8706128
+element-citation;;;;Kliche S  Nagel W  Kremmer E  Atzler C  Ege A  Knorr T  Koszinowski U  Kolanus W  Haas J   Signaling by human herpesvirus 8 kaposin A through direct membrane recruitment of cytohesin-1 Mol Cell 2001 7 833 843 11336706
+element-citation;;;;Turner CE  Brown MC   Cell motility: ARNOand ARF6 at the cutting edge Curr Biol 2001 11 R875 R877 11696346
+element-citation;;;;Ahn J  Donner DB  Rosen OM   Interaction of the human insulin receptor tyrosine kinase from the baculovirus expression system with protein kinase C in a cell-free system J Biol Chem 1993 268 7571 7576 8463287
+element-citation;;;;Emoto M  Klarlund JK  Waters SB  Hu V  Buxton JM  Chawla A  Czech MP   A role for phospholipase D in GLUT4 glucose transporter translocation J Biol Chem 2000 275 7144 7151 10702282
+element-citation;;;;Klarlund JK  Holik J  Chawla A  Park JG  Buxton J  Czech MP   Signaling complexes of the FERM domain-containing protein GRSP1 bound to ARF exchange factor GRP1 J Biol Chem 2001 276 40065 40070 11445584
+element-citation;;;;Rizzo MA  Shome K  Watkins SC  Romero G   The recruitment of Raf-1 to membranes is mediated by direct interaction with phosphatidic acid and is independent of association with Ras J Biol Chem 2000 275 23911 23918 10801816
+element-citation;;;;Langille SE  Patki V  Klarlund JK  Buxton JM  Holik JJ  Chawla A  Corvera S  Czech MP   ADP-ribosylation factor 6 as a target of guanine nucleotide exchange factor GRP1 J Biol Chem 1999 274 27099 27104 10480924
+element-citation;;;;Cavenagh MM  Whitney JA  Carroll K  Zhang C  Boman AL  Rosenwald AG  Mellman I   Intracellular distribution of Arf proteins in mammalian cells. Arf6 is uniquely localized to the plasma membrane J Biol Chem 1996 271 21767 21774 8702973
+element-citation;;;;Rothman JE  Wieland FT   Protein sorting by transport vesicles Science 1996 272 227 234 8602507
+element-citation;;;;Yang CZ  Heimberg H  D'Souza-Schorey C  Mueckler MM  Stahl PD   Subcellular distribution and differential expression of endogenous AD P-ribosylation factor 6 in mammalian cells J Biol Chem 1998 273 4006 4011 9461590
+element-citation;;;;Mansour M  Lee SY  Pohajdak B   The N-terminal coiled coil domain of the cytohesin/ARNO family of guanine nucleotide exchange factors interacts with the scaffolding protein CASP J Biol Chem 2002 277 32302 32309 12052827
+element-citation;;;;Nevrivy DJ  Peterson VJ  Avram D  Ishmael JE  Hansen SG  Dowell P  Hruby DE   Interaction of GRASP, a protein encoded by a novel retinoic acid-induced gene, with members of the cytohesin family of guanine nucleotide exchange factors J Biol Chem 2000 275 16827 16836 10828067
+element-citation;;;;Rizzo MA  Shome K  Vasudevan C  Stolz DB  Sung TC  Frohman MA  Watkins SC  Romero G   Phospholipase D and its product, phosphatidic acid, mediate agonist-dependent raf-1 translocation to the plasma membrane and the activation of the mitogen-activated protein kinase pathway J Biol Chem 1999 274 1131 1139 9873061
+element-citation;;;;Klarlund JK  Tsiaras W  Holik JJ  Chawla A  Czech MP   Distinct polyphosphoinositide binding selectivities for pleckstrin homology domains of GRP1-like proteins based on diglycine versus triglycine motifs J Biol Chem 2000 275 32816 32821 10913124
+element-citation;;;;Frank SR  Hatfield JC  Casanova JE   Remodeling of the actin cytoskeleton is coordinately regulated by protein kinase C and the ADP-ribosylation factor nucleotide exchange factor ARNO Mol Biol Cell 1998 9 3133 3146 9802902

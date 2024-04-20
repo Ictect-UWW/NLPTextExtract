@@ -1,0 +1,11 @@
+name;;;;Straub Tobias
+element-citation;;;;Cheutin T  McNairn AJ  Jenuwein T  Gilbert DM  Singh PB   Maintenance of stable heterochromatin domains by dynamic HP1 binding Science 2003 299 721 725 12560555
+element-citation;;;;Eissenberg JC  Elgin SC   The HP1 protein family: Getting a grip on chromatin Curr Opin Genet Dev 2000 10 204 210 10753776
+element-citation;;;;Festenstein R  Pagakis SN  Hiragami K  Lyon D  Verreault A   Modulation of heterochromatin protein 1 dynamics in primary mammalian cells Science 2003 299 719 721 12560554
+element-citation;;;;Grewal SI  Elgin SC   Heterochromatin: New possibilities for the inheritance of structure Curr Opin Genet Dev 2002 12 178 187 11893491
+element-citation;;;;Heitz E   Das Heterochromatin der Moose Jahrb Wiss Botanik 1928 69 762 818
+element-citation;;;;Jenuwein T  Allis CD   Translating the histone code Science 2001 293 1074 1080 11498575
+element-citation;;;;Kimura H  Cook PR   Kinetics of core histones in living human cells: Little exchange of H3 and H4 and some rapid exchange of H2B J Cell Biol 2001 153 1341 1353 11425866
+element-citation;;;;Lucchesi JC   Dosage compensation in flies and worms: The ups and downs of X-chromosome regulation Curr Opin Genet Dev 1998 8 179 184 9610408
+element-citation;;;;Misteli T   Protein dynamics: Implications for nuclear architecture and gene expression Science 2001 291 843 847 11225636
+element-citation;;;;Singh PB  Georgatos SD   HP1: Facts, open questions, and speculation J Struct Biol 2002 140 10 16 12490149

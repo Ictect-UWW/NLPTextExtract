@@ -1,0 +1,10 @@
+name;;;;Insel Thomas R
+name;;;;Volkow Nora D
+name;;;;Li Ting-Kai
+name;;;;Battey James F
+name;;;;Landis Story C
+element-citation;;;;Behrens TEJ  Johansen-Berg H  Woolrich MW  Smith SM  Wheeler-Kingshott CAM   Non-invasive mapping of connections between human thalamus and cortex using diffusion imaging Nat Neurosci 2003 6 750 757 12808459
+element-citation;;;;Lowry CA   Functional subsets of serotonergic neurones: Implications for control of the hypothalamic-pituitary-adrenal axis J Neuroendocrinol 2002 14 911 923 12421345
+element-citation;;;;Mamounas LA  Mullen CA  O'Hearn E  Molliver ME   Dual serotoninergic projections to forebrain in the rat: Morphologically distinct 5-HT axon terminals exhibit differential vulnerability to neurotoxic amphetamine derivatives J Comp Neurol 1991 314 558 586 1814975
+element-citation;;;;Nass SJ  Stillman BW Large-scale biomedical science: Exploring strategies for future research 2003 296
+element-citation;;;;Stern CD  Fraser SE   Tracing the lineage of tracing cell lineages Nat Cell Biol 2001 3 E216 E218 11533679

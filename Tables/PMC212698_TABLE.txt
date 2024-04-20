@@ -1,0 +1,114 @@
+name;;;;Barroso Inês
+name;;;;Luan Jian'an
+name;;;;Middelberg Rita P. S
+name;;;;Harding Anne-Helen
+name;;;;Franks Paul W
+name;;;;Jakes Rupert W
+name;;;;Clayton David
+name;;;;Schafer Alan J
+name;;;;O'Rahilly Stephen
+name;;;;Wareham Nicholas J
+aff;;;;Incyte, Palo Alto California United States of America
+aff;;;;Department of Public Health and Primary Care, University of Cambridge Institute of Public Health Cambridge United Kingdom
+aff;;;;Diabetes and Inflammation Laboratory, Cambridge Institute for Medical Research Cambridge United Kingdom
+aff;;;;Department of Clinical Biochemistry, University of Cambridge Cambridge United Kingdom
+element-citation;;;;Almind K  Delahaye L  Hansen T  van Obberghen E  Pedersen O   Characterization of the Met326Ile variant of phosphatidylinositol 3-kinase p85α Proc Natl Acad Sci U S A 2002 99 2124 2128 11842213
+element-citation;;;;Alpha B  Cox L  Crowther N  Clark PM  Hales CN   Sensitive amplified immunoenzymometric assays (IEMA) for human insulin and intact proinsulin Eur J Clin Chem Clin Biochem 1992 30 27 32 1576236
+element-citation;;;;Altshuler D  Hirschhorn JN  Klannemark M  Lindgren CM  Vohl MC   The common PPARγ Pro12Ala polymorphism is associated with decreased risk of type 2 diabetes Nat Genet 2000 26 76 80 10973253
+element-citation;;;;Argyrokastritis A  Kamakari S  Kapsetaki M  Kritis A  Talianidis I   Human hepatocyte nuclear factor-4 (hHNF-4) gene maps to 20q12–q13.1 between PLCG1 and D20S17 Hum Genet 1997 99 233 236 9048927
+element-citation;;;;Baier LJ  Wiedrich C  Hanson RL  Bogardus C   Variant in the regulatory subunit of phosphatidylinositol 3-kinase (p85α): Preliminary evidence indicates a potential role of this variant in the acute insulin response and type 2 diabetes in Pima women Diabetes 1998 47 973 975 9604878
+element-citation;;;;Baier LJ  Permana PA  Yang X  Pratley RE  Hanson RL   A calpain-10 gene polymorphism is associated with reduced muscle mRNA levels and insulin resistance J Clin Invest 2000 106 R69 R73 11018080
+element-citation;;;;Baroni MG  Alcolado JC  Pozzilli P  Cavallo MG  Li SR   Polymorphisms at the GLUT2  (beta-cell/liver) glucose transporter gene and noninsulin-dependent diabetes mellitus (NIDDM): Analysis in affected pedigree members Clin Genet 1992 41 229 324 1351429
+element-citation;;;;Barroso I  Gurnell M  Crowley VE  Agostini M  Schwabe JW   Dominant negative mutations in human PPARγassociated with severe insulin resistance, diabetes mellitus and hypertension Nature 1999 402 880 883 10622252
+element-citation;;;;Batterham RL  Cowley MA  Small CJ  Herzog H  Cohen MA   Gut hormone PYY(3–36) physiologically inhibits food intake Nature 2002 418 650 654 12167864
+element-citation;;;;Baynes KC  Beeton CA  Panayotou G  Stein R  Soos M   Natural variants of human p85 alpha phosphoinositide 3-kinase in severe insulin resistance: A novel variant with impaired insulin-stimulated lipid kinase activity Diabetologia 2000 43 321 331 10768093
+element-citation;;;;Benjamini Y  Hochberg Y   Controlling the false discovery rate: A practical and powerful approach to multiple testing J R Statist Soc B 1995 57 289 300
+element-citation;;;;Bertrand G  Gross R  Roye M  Ahren B  Ribes G   Evidence for a direct inhibitory effect of PYY on insulin secretion in rats Pancreas 1992 7 595 600 1513807
+element-citation;;;;Bowden DW  Sale M  Howard TD  Qadri A  Spray BJ   Linkage of genetic markers on human chromosomes 20 and 12 to NIDDM in Caucasian sib pairs with a history of diabetic nephropathy Diabetes 1997 46 882 886 9133559
+element-citation;;;;Chen X  Levine L  Kwok PY   Fluorescence polarization in homogeneous nucleic acid analysis Genome Res 1999 9 492 498 10330129
+element-citation;;;;Chiano MN  Clayton DG   Fine genetic mapping using haplotype analysis and the missing data problem Ann Hum Genet 1998 62 (Pt 1) 55 60 9659978
+element-citation;;;;Cox NJ   Challenges in identifying genetic variation affecting susceptibility to type 2 diabetes: Examples from studies of the calpain-10 gene Hum Mol Genet 2001 10 2301 2305 11673414
+element-citation;;;;Daimon M  Oizumi T  Saitoh T  Kameda W  Yamaguchi H   Calpain 10 gene polymorphisms are related, not to type 2 diabetes, but to increased serum cholesterol in Japanese Diabetes Res Clin Pract 2002 56 147 152 11891023
+element-citation;;;;DuPont WD  Plummer WD   PS power and sample size program Control Clin Trials 1997 18 274
+element-citation;;;;Ek J  Andersen G  Urhammer SA  Gaede PH  Drivsholm T   Mutation analysis of peroxisome proliferator-activated receptor-gamma coactivator-1 (PGC-1) and relationships of identified amino acid polymorphisms to Type II diabetes mellitus Diabetologia 2001 44 2220 2226 11793024
+element-citation;;;;Elbein SC  Chu W  Ren Q  Hemphill C  Schay J   Role of calpain-10 gene variants in familial type 2 diabetes in Caucasians J Clin Endocrinol Metab 2002 87 650 654 11836299
+element-citation;;;;Esterbauer H  Oberkofler H  Linnemayr V  Iglseder B  Hedegger M   Peroxisome proliferator-activated receptor-gamma coactivator-1 gene locus: Associations with obesity indices in middle-aged women Diabetes 2002 51 1281 1286 11916956
+element-citation;;;;Evans JC  Frayling TM  Cassell PG  Saker PJ  Hitman GA   Studies of association between the gene for calpain-10 and type 2 diabetes mellitus in the United Kingdom Am J Hum Genet 2001 69 544 552 11481585
+element-citation;;;;Fajans SS  Bell GI  Polonsky KS   Molecular mechanisms and clinical pathophysiology of maturity-onset diabetes of the young N Engl J Med 2001 345 971 980 11575290
+element-citation;;;;Garant MJ  Kao WH  Brancati F  Coresh J  Rami TM   SNP43 of CAPN10  and the risk of type 2 diabetes in African-Americans: The Atherosclerosis Risk in Communities Study Diabetes 2002 51 231 217 11756346
+element-citation;;;;Ghosh S  Watanabe RM  Hauser ER  Valle T  Magnuson VL   Type 2 diabetes: Evidence for linkage on chromosome 20 in 716 Finnish affected sib pairs Proc Natl Acad Sci U S A 1999 96 2198 2203 10051618
+element-citation;;;;Gloyn A  Hashim Y  Ashcroft SJ  Ashfield R  Wiltshire S   Association studies of variants in promoter and coding regions of beta-cell ATP-sensitive K-channel genes SUR1  and Kir6.2  with Type 2 diabetes mellitus (UKPDS 53) Diabet Med 2001 18 206 212 11318841
+element-citation;;;;Gloyn A  Weedon MN  Owen KR  Turner MJ  Knight BA   Large-scale association studies of variants in genes encoding the pancreatic beta-cell K(ATP) channel subunits Kir6.2 (KCNJ11 ) and SUR1 (ABCC8 ) confirm that the KCNJ11  E23K variant is associated with Type 2 diabetes Diabetes 2003 52 568 572 12540637
+element-citation;;;;Gu HF  Almgren P  Lindholm E  Frittitta L  Pizzuti A   Association between the human glycoprotein PC-1  gene and elevated glucose and insulin levels in a paired-sibling analysis Diabetes 2000 49 1601 1603 10969847
+element-citation;;;;Halsall DJ  McFarlane I  Luan J  Cox TM  Wareham NJ   Typical type 2 diabetes mellitus and HFE gene mutations: A population-based case-control study Hum Mol Genet 2003 12 1361 1365 12783844
+element-citation;;;;Hani EH  Boutin P  Durand E  Inoue H  Permutt MA   Missense mutations in the pancreatic islet beta cell inwardly rectifying K+ channel gene (KIR6.2/BIR ): A meta-analysis suggests a role in the polygenic basis of Type II diabetes mellitus in Caucasians Diabetologia 1998 41 1511 1515 9867219
+element-citation;;;;Hansen L  Hansen T  Vestergaard H  Bjorbaek C  Echwald SM   A widespread amino acid polymorphism at codon 905 of the glycogen-associated regulatory subunit of protein phosphatase-1 is associated with insulin resistance and hypersecretion of insulin Hum Mol Genet 1995 4 1313 1320 7581368
+element-citation;;;;Hansen L  Hansen T  Clausen JO  Echwald SM  Urhammer SA   The Val985Met insulin-receptor variant in the Danish Caucasian population: Lack of associations with noninsulin-dependent diabetes mellitus or insulin resistance Am J Hum Genet 1997 60 1532 1535 9199575
+element-citation;;;;Hansen L  Reneland R  Berglund L  Rasmussen SK  Hansen T   Polymorphism in the glycogen-associated regulatory subunit of type 1 protein phosphatase (PPP1R3 ) gene and insulin sensitivity Diabetes 2000 49 298 301 10868947
+element-citation;;;;Hansen T  Andersen CB  Echwald SM  Urhammer SA  Clausen JO   Identification of a common amino acid polymorphism in the p85α regulatory subunit of phosphatidylinositol 3-kinase: Effects on glucose disappearance constant, glucose effectiveness, and the insulin sensitivity index Diabetes 1997 46 494 501 9032108
+element-citation;;;;Hansen T  Echwald SM  Hansen L  Moller AM  Almind K   Decreased tolbutamide-stimulated insulin secretion in healthy subjects with sequence variants in the high-affinity sulfonylurea receptor gene Diabetes 1998 47 598 605 9568693
+element-citation;;;;Hansen T  Ambye L  Grarup N  Hansen L  Echwald SM   Genetic variability of the SUR1  promoter in relation to beta-cell function and Type II diabetes mellitus Diabetologia 2001 44 1330 1334 11692183
+element-citation;;;;Hara K  Tobe K  Okada T  Kadowaki H  Akanuma Y   A genetic variation in the PGC-1  gene could confer insulin resistance and susceptibility to Type II diabetes Diabetologia 2002 45 740 743 12107756
+element-citation;;;;Hart LM  Stolk RP  Heine RJ  Grobbee DE  van der Does FE   Association of the insulin-receptor variant Met-985 with hyperglycemia and noninsulin-dependent diabetes mellitus in The Netherlands: A population-based study Am J Hum Genet 1996 59 1119 1125 8900242
+element-citation;;;;Hart LM  de Knijff P  Dekker JM  Stolk RP  Nijpels G   Variants in the sulphonylurea receptor gene: Association of the exon 16–3t variant with Type II diabetes mellitus in Dutch Caucasians Diabetologia 1999a 42 617 620 10333056
+element-citation;;;;Hart LM  Stolk RP  Dekker JM  Nijpels G  Grobbee DE   Prevalence of variants in candidate genes for type 2 diabetes mellitus in The Netherlands: The Rotterdam study and the Hoorn study J Clin Endocrinol Metab 1999b 84 1002 1006 10084586
+element-citation;;;;Hegele RA  Harris SB  Zinman B  Wang J  Cao H   Variation in the AU(AT)-rich element within the 3′-untranslated region of PPP1R3 is associated with variation in plasma glucose in aboriginal Canadians J Clin Endocrinol Metab 1998 83 3980 3983 9814479
+element-citation;;;;Hegele RA  Harris SB  Zinman B  Hanley AJ  Cao H   Absence of association of type 2 diabetes with CAPN10 and PC-1 polymorphisms in Oji-Cree Diabetes Care 2001 24 1498 1499
+element-citation;;;;Herzig S  Long F  Jhala US  Hedrick S  Quinn R   CREB regulates hepatic gluconeogenesis through the coactivator PGC-1 Nature 2001 413 179 183 11557984
+element-citation;;;;Horikawa Y  Iwasaki N  Hara M  Furuta H  Hinokio Y   Mutation in hepatocyte nuclear factor-1 beta gene (TCF2 ) associated with MODY Nat Genet 1997 17 384 385 9398836
+element-citation;;;;Horikawa Y  Oda N  Cox NJ  Li X  Orho-Melander M   Genetic variation in the gene encoding calpain-10 is associated with type 2 diabetes mellitus Nat Genet 2000 26 163 175 11017071
+element-citation;;;;Huber PJ The behavior of maximum likelihood estimates under nonstandard conditions. In: Proceedings of the fifth Berkeley symposium on mathematical statistics and probability 1967 1 221 233
+element-citation;;;;Huxtable SJ  Saker PJ  Haddad L  Walker M  Frayling TM   Analysis of parent-offspring trios provides evidence for linkage and association between the insulin gene and type 2 diabetes mediated exclusively through paternally transmitted class III variable number tandem repeat alleles Diabetes 2000 49 126 130 10615960
+element-citation;;;;Inoue H  Ferrer J  Welling CM  Elbein SC  Hoffman M   Sequence variants in the sulfonylurea receptor (SUR ) gene are associated with NIDDM in Caucasians Diabetes 1996 45 825 831 8635661
+element-citation;;;;Ji L  Malecki M  Warram JH  Yang Y  Rich SS   New susceptibility locus for NIDDM is localized to human chromosome 20q Diabetes 1997 46 876 881 9133558
+element-citation;;;;Kawanishi M  Tamori Y  Masugi J  Mori H  Ito C   Prevalence of a polymorphism of the phosphatidylinositol 3-kinase p85 alpha regulatory subunit (codon 326 Met→Ile) in Japanese NIDDM patients Diabetes Care 1997 20 1043 9167124
+element-citation;;;;King H  Aubert RE  Herman WH   Global burden of diabetes, 1995–2025: Prevalence, numerical estimates, and projections Diabetes Care 1998 21 1414 1431 9727886
+element-citation;;;;Klupa T  Malecki MT  Pezzolesi M  Ji L  Curtis S   Further evidence for a susceptibility locus for type 2 diabetes on chromosome 20q13.1–q13.2 Diabetes 2000 49 2212 2216 11118028
+element-citation;;;;Kunst A  Draeger B  Ziegenhorn J UV-methods with hexokinase and glucose-6-phosphate dehydrogenase. In: Bergmeyer H, editor. Methods of enzymatic analysis 1983 163 172
+element-citation;;;;Lacquemant C  Chikri M  Boutin P  Samson C  Froguel P   No association between the G482S polymorphism of the proliferator-activated receptor-gamma coactivator-1 (PGC-1) gene and Type II diabetes in French Caucasias Diabetologia 2002 45 602 603 12032643
+element-citation;;;;Lander E  Kruglyak L   Genetic dissection of complex traits: Guidelines for interpreting and reporting linkage results Nat Genet 1995 11 241 247 7581446
+element-citation;;;;Lewontin RC   The interaction of selection and linkage. I. General considerations: Heterotic models Genetics 1964 49 49 67 17248194
+element-citation;;;;Li SR  Alcolado JC  Stocks J  Baroni MG  Oelbaum RS   Genetic polymorphisms at the human liver/islet glucose transporter (GLUT2) gene locus in Caucasian and West Indian subjects with type 2 (noninsulin-dependent) diabetes mellitus Biochim Biophys Acta 1991 1097 293 298 1683793
+element-citation;;;;Love-Gregory LD  Lin J  Skolnick G  Suarez B  Permutt MA   An E23K single nucleotide polymorphism in the islet ATP-sensitive potassium channel gene (Kir6.2 ) contributes as much to the risk of Type II diabetes in Caucasians as the PPAR Pro12Ala variant Diabetologia 2003 46 136 137 12643262
+element-citation;;;;Luan J  Browne PO  Harding AH  Halsall DJ  O'Rahilly S   Evidence for gene-nutrient interaction at the PPARγ locus Diabetes 2001 50 686 689 11246892
+element-citation;;;;Malecki MT  Antonellis A  Casey P  Ji L  Wantman M   Exclusion of the hepatocyte nuclear factor 4α as a candidate gene for late-onset NIDDM linked with chromosome 20q Diabetes 1998 47 970 972 9604877
+element-citation;;;;Malecki MT  Jhala US  Antonellis A  Fields L  Doria A   Mutations in NEUROD1  are associated with the development of type 2 diabetes mellitus Nat Genet 1999 23 323 328 10545951
+element-citation;;;;Mander AP   Haplotype analysis in population-based association studies Stata J 2001 1 58 75
+element-citation;;;;Michael LF  Wu Z  Cheatham RB  Puigserver P  Adelmant G   Restoration of insulin-sensitive glucose transporter (GLUT4) gene expression in muscle cells by the transcriptional coactivator PGC-1 Proc Natl Acad Sci U S A 2001 98 3820 3825 11274399
+element-citation;;;;Moller AM  Urhammer SA  Dalgaard LT  Reneland R  Berglund L   Studies of the genetic variability of the coding region of the hepatocyte nuclear factor-4α in Caucasians with maturity onset NIDDM Diabetologia 1997 40 980 983 9267996
+element-citation;;;;Moller AM  Jensen NM  Pildal J  Drivsholm T  Borch-Johnsen K   Studies of genetic variability of the glucose transporter 2 promoter in patients with type 2 diabetes mellitus J Clin Endocrinol Metab 2001 86 2181 2186 11344224
+element-citation;;;;Muller YL  Bogardus C  Pedersen O  Baier L   A Gly482Ser missense mutation in the peroxisome proliferator-activated receptor gamma coactivator-1 is associated with altered lipid oxidation and early insulin secretion in Pima Indians Diabetes 2003 52 895 898 12606537
+element-citation;;;;Nielsen EM  Hansen L  Carstensen B  Echwald SM  Drivsholm T   The E23K variant of Kir6.2 associates with impaired post-OGTT serum insulin response and increased risk of Type 2 diabetes Diabetes 2003 52 573 577 12540638
+element-citation;;;;Nieuwenhuizen AG  Karlsson S  Fridolf T  Ahren B   Mechanisms underlying the insulinostatic effect of peptide YY in mouse pancreatic islets Diabetologia 1994 37 871 878 7806016
+element-citation;;;;O'Rahilly S  Choi WH  Patel P  Turner RC  Flier JS   Detection of mutations in insulin-receptor gene in NIDDM patients by analysis of single-stranded conformation polymorphisms Diabetes 1991 40 777 782 2040394
+element-citation;;;;O'Rahilly S  Krook A  Morgan R  Rees A  Flier JS   Insulin receptor and insulin-responsive glucose transporter (GLUT4) mutations and polymorphisms in a Welsh Type 2 (noninsulin-dependent) diabetic population Diabetologia 1992 35 486 489 1521731
+element-citation;;;;Permutt MA  Wasson JC  Suarez BK  Lin J  Thomas J   A genome scan for type 2 diabetes susceptibility loci in a genetically isolated population Diabetes 2001 50 681 685 11246891
+element-citation;;;;Pizzuti A  Frittitta L  Argiolas A  Baratta R  Goldfine ID   A polymorphism (K121Q) of the human glycoprotein PC-1  gene coding region is strongly associated with insulin resistance Diabetes 1999 48 1881 1884 10480624
+element-citation;;;;Poulton J  Luan J  Macaulay V  Hennings S  Mitchell J   Type 2 diabetes is associated with a common mitochondrial variant: Evidence from a population-based case-control study Hum Mol Genet 2002 11 1581 1583 12045211
+element-citation;;;;Price JA  Fossey SC  Sale MM  Brewer CS  Freedman BI   Analysis of the HNF4 alpha gene in Caucasian type II diabetic nephropathic patients Diabetologia 2000 43 364 372 10768098
+element-citation;;;;Puigserver P  Wu Z  Park CW  Graves R  Wright M   A cold-inducible coactivator of nuclear receptors linked to adaptive thermogenesis Cell 1998 92 829 839 9529258
+element-citation;;;;Rasmussen SK  Urhammer SA  Pizzuti A  Echwald SM  Ekstrom CT   The K121Q variant of the human PC-1  gene is not associated with insulin resistance or type 2 diabetes among Danish Caucasians Diabetes 2000 49 1608 1611 10969849
+element-citation;;;;Savage DB  Agostini M  Barroso I  Gurnell M  Luan J   Digenic inheritance of severe insulin resistance in a human pedigree Nat Genet 2002 31 379 384 12118251
+element-citation;;;;Schwanstecher C  Schwanstecher M   Nucleotide sensitivity of pancreatic ATP-sensitive potassium channels and type 2 diabetes Diabetes 2002 51 S358 S362 12475775
+element-citation;;;;Schwanstecher C  Meyer U  Schwanstecher M   K(IR)6.2 polymorphism predisposes to type 2 diabetes by inducing overactivity of pancreatic beta-cell ATP-sensitive K(+) channels Diabetes 2002 51 875 879 11872696
+element-citation;;;;Shih DQ  Dansky HM  Fleisher M  Assmann G  Fajans SS   Genotype/phenotype relationships in HNF-4α/MODY1: Haploinsufficiency is associated with reduced apolipoprotein (AII), apolipoprotein (CIII), lipoprotein(a), and triglyceride levels Diabetes 2000 49 832 837 10905494
+element-citation;;;;Sobey WJ  Beer SF  Carrington CA  Clark PM  Frank BH   Sensitive and specific two-site immunoradiometric assays for human insulin, proinsulin, 65–66 split and 32–33 split proinsulins Biochem J 1989 260 535 541 2669734
+element-citation;;;;Standing SJ  Taylor RP   Glycated haemoglobin: An assessment of high capacity liquid chromatographic and immunoassay methods Ann Clin Biochem 1992 29 494 505 1280025
+element-citation;;;;Stoffel M  Duncan SA   The maturity-onset diabetes of the young (MODY1) transcription factor HNF4α regulates expression of genes required for glucose transport and metabolism Proc Natl Acad Sci U S A 1997 94 13209 13214 9371825
+element-citation;;;;Stoffers DA  Ferrer J  Clarke WL  Habener JF   Early-onset type-II diabetes mellitus (MODY4) linked to IPF1 Nat Genet 1997 17 138 139 9326926
+element-citation;;;;Tanizawa Y  Riggs AC  Chiu KC  Janssen RC  Bell DS   Variability of the pancreatic islet beta cell/liver (GLUT2) glucose transporter gene in NIDDM patients Diabetologia 1994 37 420 427 8063045
+element-citation;;;;Thorpe KL  Schafer AJ  Genin E  Trowsdale J  Beck S   Detection of polymorphism in the RING3  gene by high-throughput fluorescent SSCP analysis Immunogenetics 1999 49 256 265 10079288
+element-citation;;;;Tsai HJ  Sun G  Weeks DE  Kaushal R  Wolujewicz M   Type 2 diabetes and three calpain-10 gene polymorphisms in Samoans: No evidence of association Am J Hum Genet 2001 69 1236 1244 11704924
+element-citation;;;;Vega RB  Huss JM  Kelly DP   The coactivator PGC-1 cooperates with peroxisome proliferator-activated receptor alpha in transcriptional control of nuclear genes encoding mitochondrial fatty acid oxidation enzymes Mol Cell Biol 2000 20 1868 1876 10669761
+element-citation;;;;Vionnet N  Stoffel M  Takeda J  Yasuda K  Bell GI   Nonsense mutation in the glucokinase gene causes early-onset noninsulin-dependent diabetes mellitus Nature 1992 356 721 722 1570017
+element-citation;;;;Wareham NJ  Byrne CD  Williams R  Day NE  Hales CN   Fasting proinsulin concentrations predict the development of type 2 diabetes Diabetes Care 1999 22 262 270 10333943
+element-citation;;;;Weyer C  Bogardus C  Mott DM  Pratley RE   The natural history of insulin secretory dysfunction and insulin resistance in the pathogenesis of type 2 diabetes mellitus J Clin Invest 1999 104 787 794 10491414
+element-citation;;;;White HA   Heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroskedasticity Econometrica 1980 48 817 830
+element-citation;;;;White HA   Maximum likelihood estimation of misspecified models Econometrica 1982 50 1 25
+element-citation;;;;Wu Z  Puigserver P  Andersson U  Zhang C  Adelmant G   Mechanisms controlling mitochondrial biogenesis and respiration through the thermogenic coactivator PGC-1 Cell 1999 98 115 124 10412986
+element-citation;;;;Xia J  Scherer SW  Cohen PT  Majer M  Xi T   A common variant in PPP1R3  associated with insulin resistance and type 2 diabetes Diabetes 1998 47 1519 1524 9726244
+element-citation;;;;Yamagata K  Furuta H  Oda N  Kaisaki PJ  Menzel S   Mutations in the hepatocyte nuclear factor-4α gene in maturity-onset diabetes of the young (MODY1 ) Nature 1996a 384 458 460 8945471
+element-citation;;;;Yamagata K  Oda N  Kaisaki PJ  Menzel S  Furuta H   Mutations in the hepatocyte nuclear factor-1α gene in maturity-onset diabetes of the young (MODY3 ) Nature 1996b 384 455 458 8945470
+element-citation;;;;Yoon JC  Puigserver P  Chen G  Donovan J  Wu Z   Control of hepatic gluconeogenesis through the transcriptional coactivator PGC-1 Nature 2001 413 131 138 11557972
+element-citation;;;;Zimmet P   Type 2 (noninsulin-dependent) diabetes: An epidemiological overview Diabetologia 1982 22 399 411 7049798
+element-citation;;;;Zouali H  Hani EH  Philippi A  Vionnet N  Beckmann JS   A susceptibility locus for early-onset noninsulin dependent (type 2) diabetes mellitus maps to chromosome 20q, proximal to the phosphoenolpyruvate carboxykinase gene Hum Mol Genet 1997 6 1401 1408 9285775

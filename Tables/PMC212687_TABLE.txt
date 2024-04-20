@@ -1,0 +1,57 @@
+name;;;;Lee Alfred Ian
+name;;;;Fugmann Sebastian D
+name;;;;Cowell Lindsay G
+name;;;;Ptaszek Leon M
+name;;;;Kelsoe Garnett
+name;;;;Schatz David G
+aff;;;;Howard Hughes Medical Institute, Section of Immunobiology, Yale University School of Medicine New Haven, Connecticut United States of America
+aff;;;;Department of Immunology, Duke University Medical Center Durham, North Carolina United States of America
+aff;;;;Ruttenberg Cancer Center, Mount Sinai School of Medicine of New York University New York, New York United States of America
+element-citation;;;;Akamatsu Y  Oettinger MA   Distinct roles of RAG1 and RAG2 in binding the V(D)J recombination signal sequences Mol Cell Biol 1998 18 4670 4678 9671477
+element-citation;;;;Akira S  Okazaki K  Sakano H   Two pairs of recombination signals are sufficient to cause immunoglobulin V-(D)-J joining Science 1987 238 1134 1138 3120312
+element-citation;;;;Argast GM  Stephens KM  Emond MJ  Monnat RJ   I-Ppo I and I-Cre I homing site sequence degeneracy determined by random mutagenesis and sequential in vitro enrichment J Mol Biol 1998 280 345 353 9665841
+element-citation;;;;Bassing CH  Swat W  Alt FW   The mechanism and regulation of chromosomal V(D)J recombination Cell 2002 109 S45 S55 11983152
+element-citation;;;;Connor AM  Fanning LJ  Celler JW  Hicks LK  Ramsden DA   Mouse V(H)7183 recombination signal sequences mediate recombination more frequently than those of VHJ558 J Immunol 1995 155 5268 5272 7594539
+element-citation;;;;Cowell LG  Davila M  Kepler TB  Kelsoe G   Identification and utilization of arbitrary correlations in models of recombination signal sequences Genome Biol 2002 3 research0072.1 research0072.20 12537561
+element-citation;;;;Cowell LG  Davila M  Yang K  Kepler TB  Kelsoe G   Prospective estimation of recombination signal efficiency and identification of functional cryptic signals in the genome by statistical modeling J Exp Med 2003 197 207 220 12538660
+element-citation;;;;Difilippantonio MJ  McMahan CJ  Eastman QM  Spanopoulou E  Schatz DG   RAG1 mediates signal sequence recognition and recruitment of RAG2 in V(D)J recombination Cell 1996 87 253 262 8861909
+element-citation;;;;Eastman QM  Leu TMJ  Schatz DG   Initiation of V(D)J recombination in vitro  obeying the 12/23 rule Nature 1996 380 85 88 8598914
+element-citation;;;;Eastman QM  Villey IJ  Schatz DG   Detection of RAG protein–V(D)J recombination signal interactions near the site of DNA cleavage by UV cross-linking Mol Cell Biol 1999 19 3788 3797 10207102
+element-citation;;;;Fanning L  Connor A  Baetz K  Ramsden D  Wu GE   Mouse RSS spacer sequences affect the rate of V(D)J recombination Immunogenetics 1996 44 146 150 8662078
+element-citation;;;;Feng J-A  Johnson RC  Dickerson RE   Hin  recombinase bound to DNA: The origin of specificity in major and minor groove interactions Science 1994 263 348 355 8278807
+element-citation;;;;Fugmann SD  Schatz DG   Identification of basic residues in RAG2 critical for DNA binding by the RAG1–RAG2 complex Mol Cell 2001 8 899 910 11684024
+element-citation;;;;Fugmann SD  Lee AI  Shockett PE  Villey IJ  Schatz DG   The RAG proteins and V(D)J recombination: Complexes, ends, and transposition Annu Rev Immunol 2000a 18 495 527 10837067
+element-citation;;;;Fugmann SD  Villey IJ  Ptaszek LM  Schatz DG   Identification of two catalytic residues in RAG1 that define a single active site within the RAG1/RAG2 protein complex Mol Cell 2000b 5 97 107 10678172
+element-citation;;;;Gorin AA  Zhurkin VB  Olson WK   B-DNA twisting correlates with base-pair morphology J Mol Biol 1995 247 34 48 7897660
+element-citation;;;;Hesse JE  Lieber MR  Gellert M  Mizuuchi K   Extrachromosomal DNA substrates in preB cells undergo inversion or deletion at immunoglobulin V-(D)-J joining signals Cell 1987 49 775 783 3495343
+element-citation;;;;Hesse JE  Lieber MR  Mizuuchi K  Gellert M   V(D)J recombination: A functional definition of the joining signals Genes Dev 1989 3 1053 1061 2777075
+element-citation;;;;Hesslein DG  Schatz DG   Factors and forces controlling V(D)J recombination Adv Immunol 2001 78 169 232 11432204
+element-citation;;;;Hiom K  Gellert M   A stable RAG1–RAG2–DNA complex that is active in V(D)J cleavage Cell 1997 88 65 72 9019407
+element-citation;;;;Hiom K  Gellert M   Assembly of a 12/23 paired signal complex: A critical control point in V(D)J recombination Mol Cell 1998 1 1011 1019 9651584
+element-citation;;;;Jones JM  Gellert M   Ordered assembly of the V(D)J synaptic complex ensures accurate recombination EMBO J 2002 21 4162 4171 12145216
+element-citation;;;;Jung D  Bassing CH  Fugmann SD  Cheng HL  Schatz DG   Extrachromosomal recombination substrates recapitulate beyond 12/23 restricted VDJ recombination in nonlymphoid cells Immunity 2003 18 65 74 12530976
+element-citation;;;;Jurica MS  Monnat RJ  Stoddard BL   DNA recognition and cleavage by the LAGLIDADG homing endonuclease I-Cre I Mol Cell 1998 2 469 476 9809068
+element-citation;;;;Larijani M  Yu CCK  Golub R  Lam QLK  Wu GE   The role of components of recombination signal sequences in immunoglobulin gene segment usage: A V81x model Nucleic Acids Res 1999 27 2304 2309 10325418
+element-citation;;;;Leu TMJ  Eastman QM  Schatz DG   Coding joint formation in a cell free V(D)J recombination system Immunity 1997 7 303 314 9285414
+element-citation;;;;Livàk F  Petrie H   Access roads for RAG-ged terrains: Control of T cell receptor gene rearrangement at multiple levels Semin Immunol 2002 14 297 309 12220931
+element-citation;;;;Livàk F  Burtrum DB  Rowen L  Schatz DG  Petrie HT   Genetic modulation of T cell receptor gene segment usage during somatic recombination J Exp Med 2000 192 1191 1196 11034609
+element-citation;;;;Mo X  Bailin T  Sadofsky MJ   RAG1 and RAG2 cooperate in specific binding to the recombination signal sequence in vitro  J Biol Chem 1999 274 7025 7031 10066757
+element-citation;;;;Mundy CL  Patenge N  Matthews AGW  Oettinger MA   Assembly of the RAG1/RAG2 synaptic complex Mol Cell Biol 2002 22 69 77 11739723
+element-citation;;;;Nadel B  Tang A  Escuro G  Lugo G  Feeney AJ   Sequence of the spacer in the recombination signal sequence affects V(D)J rearrangement frequency and correlates with nonrandom V-kappa usage in vivo  J Exp Med 1998 187 1495 1503 9565641
+element-citation;;;;Nagawa F  Ishiguro K  Tsuboi A  Yoshida T  Ishikawa A   Footprint analysis of the RAG protein recombination signal sequence complex for V(D)J type recombination Mol Cell Biol 1998 18 655 663 9418911
+element-citation;;;;Ramsden DA  Wu GE   Mouse κ light-chain recombination signal sequences mediate recombination more frequently than do those of λ light chain Proc Natl Acad Sci U S A 1991 88 10721 10725 1961738
+element-citation;;;;Ramsden DA  Baetz K  Wu GE   Conservation of sequence in recombination signal sequence spacers Nucleic Acids Res 1994 22 1785 1796 8208601
+element-citation;;;;Rodgers KK  Villey IJ  Ptaszek L  Corbett E  Schatz DG   A dimer of the lymphoid protein RAG1 recognizes the recombination signal sequence and the complex stably incorporates the high mobility group protein HMG2 Nucleic Acids Res 1999 27 2938 2946 10390537
+element-citation;;;;Roman CAJ  Cherry SR  Baltimore D   Complementation of V(D)J recombination deficiency in RAG-1(−/−) B cells reveals a requirement for novel elements in the N-terminus of RAG-1 Immunity 1997 7 13 24 9252116
+element-citation;;;;Roth DB  Nakajima PB  Menetski JP  Bosma MJ  Gellert M   V(D)J recombination in mouse thymocytes: Double-stranded breaks near T-cell receptor delta rearrangement signals Cell 1992 69 41 53 1313336
+element-citation;;;;Spanopoulou E  Zaitseva F  Wang F-H  Santagata S  Baltimore D   The homeodomain of Rag-1 reveals the parallel mechanisms of bacterial and V(D)J recombination Cell 1996 87 263 276 8861910
+element-citation;;;;Steen SB  Gomelsky L  Speidel SL  Roth DB   Initiation of V(D)J recombination in vivo: Role of recombination signal sequences in formation of single and paired double-strand breaks EMBO J 1997 16 2656 2664 9184212
+element-citation;;;;Suzuki H  Shiku H   Preferential usage of JH2 in D-J joinings with DQ52 is determined by the primary DNA sequence and is largely dependent on recombination signal sequences Eur J Immunol 1992 22 2225 2230 1516615
+element-citation;;;;Swanson PC   Fine structure and activity of discrete RAG–HMG complexes on V(D)J recombination signals Mol Cell Biol 2002 22 1340 1351 11839801
+element-citation;;;;Swanson PC  Desiderio S   V(D)J recombination signal recognition-distinct, overlapping DNA-protein contacts in complexes containing RAG1 with and without RAG2 Immunity 1998 9 115 125 9697841
+element-citation;;;;Swanson PC  Desiderio S   RAG-2 promotes heptamer occupancy by RAG-1 in the assembly of a V(D)J initiation complex Mol Cell Biol 1999 19 3674 3683 10207091
+element-citation;;;;Tonegawa S   Somatic generation of antibody diversity Nature 1983 302 575 581 6300689
+element-citation;;;;Travers A DNA–protein interactions 1993 180
+element-citation;;;;Tsai CL  Drejer AH  Schatz DG   Evidence of a critical architectural function for the RAG proteins in end processing, protection, and joining in V(D)J recombination Genes Dev 2002 16 1934 1949 12154124
+element-citation;;;;Wei Z  Lieber MR   Lymphoid V(D)J recombination: Functional analysis of the spacer sequence within the recombination signal J Biol Chem 1993 268 3180 3183 8428995
+element-citation;;;;West RB  Lieber MR   The RAG–HMG1 complex enforces the 12/23 rule of V(D)J recombination specifically at the double-hairpin formation step Mol Cell Biol 1998 18 6408 6415 9774656

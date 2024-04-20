@@ -1,0 +1,34 @@
+name;;;;Barsh Gregory S
+element-citation;;;;Alaluf S  Atkins D  Barrett K  Blount M  Carter N   Ethnic variation in melanin content and composition in photoexposed and photoprotected human skin Pigment Cell Res 2002a 15 112 118 11936268
+element-citation;;;;Alaluf S  Atkins D  Barrett K  Blount M  Carter N   The impact of epidermal melanin on objective measurements of human skin colour Pigment Cell Res 2002b 15 119 126 11936269
+element-citation;;;;Armstrong BK  Kricker A  English DR   Sun exposure and skin cancer Australas J Dermatol 1997 38 S1 S6 10994463
+element-citation;;;;Bennett DC  Lamoreux ML   The color loci of mice—A genetic century Pigment Cell Res 2003 16 333 344 12859616
+element-citation;;;;Brilliant M  Gardner LJ   Melanosomal pH, pink locus protein and their roles in melanogenesis J Invest Dermatol 2001 117 386 387 11511323
+element-citation;;;;Clark P  Stark AE  Walsh RJ  Jardine R  Martin NG   A twin study of skin reflectance Ann Hum Biol 1981 8 529 541 7199888
+element-citation;;;;Costin GE  Valencia JC  Vieira WD  Lamoreux ML  Hearing VJ   Tyrosinase processing and intracellular trafficking is disrupted in mouse primary melanocytes carrying the underwhite (uw ) mutation: A model for oculocutaneous albinism (OCA) type 4 J Cell Sci 2003 116 3203 3212 12829739
+element-citation;;;;Diepgen TL  Mahler V   The epidemiology of skin cancer Br J Dermatol 2002 146 1 6
+element-citation;;;;Harding RM  Healy E  Ray AJ  Ellis NS  Flanagan N   Evidence for variable selective pressures at MC1R  Am J Hum Genet 2000 66 1351 1361 10733465
+element-citation;;;;Harrison GA  Owen JJT   Studies on the inheritance of human skin colour Ann Hum Genet 1964 28 27 37 14204850
+element-citation;;;;Jablonski NG  Chaplin G   The evolution of human skin coloration J Hum Evol 2000 39 57 106 10896812
+element-citation;;;;Jackson IJ   Molecular and developmental genetics of mouse coat color Annu Rev Genet 1994 28 189 217 7893123
+element-citation;;;;Konrad K  Wolff K   Hyperpigmentation, melanosome size, and distribution patterns of melanosomes Arch Dermatol 1973 107 853 860 4711116
+element-citation;;;;Loomis WF   Skin-pigment regulation of vitamin-D biosynthesis in man Science 1967 157 501 506 6028915
+element-citation;;;;Minwalla L  Zhao Y  Le Poole IC  Wickett RR  Boissy RE   Keratinocytes play a role in regulating distribution patterns of recipient melanosomes in vitro  J Invest Dermatol 2001 117 341 347 11511313
+element-citation;;;;Murray FG   Pigmentation, sunlight, and nutritional disease Am Anthropologist 1934 36 438 445
+element-citation;;;;Newton JM  Cohen-Barak O  Hagiwara N  Gardner JM  Davisson MT   Mutations in the human orthologue of the mouse underwhite gene (uw ) underlie a new form of oculocutaneous albinism, OCA4 Am J Hum Genet 2001 69 981 988 11574907
+element-citation;;;;Oetting WS  King RA   Molecular basis of albinism: Mutations and polymorphisms of pigmentation genes associated with albinism Hum Mutat 1999 13 99 115 10094567
+element-citation;;;;Orlow SJ  Brilliant MH   The pink-eyed dilution locus controls the biogenesis of melanosomes and levels of melanosomal proteins in the eye Exp Eye Res 1999 68 147 154 10068480
+element-citation;;;;Rana BK  Hewett-Emmett D  Jin L  Chang BH  Sambuughin N   High polymorphism at the human melanocortin 1 receptor locus Genetics 1999 151 1547 1557 10101176
+element-citation;;;;Rees JL   The melanocortin 1 receptor (MC1R ): More than just red hair Pigment Cell Res 2000 13 135 140
+element-citation;;;;Relethford JH   Hemispheric difference in human skin color Am J Phys Anthropol 1997 104 449 457 9453695
+element-citation;;;;Robins AH Biological perspectives on human pigmentation 1991 253
+element-citation;;;;Schmitz S  Thomas PD  Allen TM  Poznansky MJ  Jimbow K   Dual role of melanins and melanin precursors as photoprotective and phototoxic agents: Inhibition of ultraviolet radiation-induced lipid peroxidation Photochem Photobiol 1995 61 650 655 7568412
+element-citation;;;;Shriver MD  Parra EJ   Comparison of narrow-band reflectance spectroscopy and tristimulus colorimetry for measurements of skin and hair color in persons of different biological ancestry Am J Phys Anthropol 2000 112 17 27 10766940
+element-citation;;;;Sturm RA  Box NF  Ramsay M   Human pigmentation genetics: The difference is only skin deep Bioessays 1998 20 712 721 9819560
+element-citation;;;;Szabo G  Gerald AB  Pathak MA  Fitzpatrick TB   Racial differences in the fate of melanosomes in human epidermis Nature 1969 222 1081 1082 5787098
+element-citation;;;;Takahashi T  Nau MM  Chiba I  Birrer MJ  Rosenberg RK   p53: A frequent target for genetic abnormalities in lung cancer Science 1989 246 491 494 2554494
+element-citation;;;;Templeton A   Out of Africa again and again Nature 2002 416 45 51 11882887
+element-citation;;;;Toda K  Pathak MA  Parrish JA  Fitzpatrick TB  Quevedo WC   Alteration of racial differences in melanosome distribution in human epidermis after exposure to ultraviolet light Nat New Biol 1972 236 143 145 4502818
+element-citation;;;;Toyooka S  Tsuda T  Gazdar AF   The TP53  gene, tobacco exposure, and lung cancer Hum Mutat 2003 21 229 239 12619108
+element-citation;;;;Wagner JK  Jovel C  Norton HL  Parra EJ  Shriver MD   Comparing quantitative measures of erythema, pigmentation and skin response using reflectometry Pigment Cell Res 2002 15 379 384 12213095
+element-citation;;;;Wenczl E  van der Schans GP  Roza L  Kolb RM  Timmerman AJ   (Pheo)melanin photosensitizes UVA-induced DNA damage in cultured human melanocytes J Invest Dermatol 1998 111 678 682 9764853

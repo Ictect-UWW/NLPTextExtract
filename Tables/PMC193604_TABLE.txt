@@ -1,0 +1,51 @@
+name;;;;Peng Ying
+name;;;;Stoleru Dan
+name;;;;Levine Joel D
+name;;;;Hall Jeffrey C
+name;;;;Rosbash Michael
+aff;;;;Department of Biology, Brandeis University Waltham, Massachusetts United States of America
+aff;;;;Howard Hughes Medical Institute, Brandeis University Waltham, Massachusetts United States of America
+element-citation;;;;Allada R  White N  So W  Hall J  Rosbash M   A mutant  Drosophila  homolog of mammalian Clock disrupts circadian rhythms and transcription of period  and timeless  Cell 1998 93 791 804 9630223
+element-citation;;;;Allada R  Emery P  Takahashi JS  Rosbash M   Stopping time: The genetics of fly and mouse circadian clocks Ann Rev Neurosci 2001 24 1091 1119 11520929
+element-citation;;;;Allada R  Kadener S  Nandakumar N  Rosbash M   A recessive mutant of  Drosophila  Clock reveals a role in circadian rhythm amplitude EMBO J 2003 22 3367 3375 12839998
+element-citation;;;;Bae K  Lee C  Hardin PE  Edery I   dCLOCK is present in limiting amounts and likely mediates daily interactions between the dCLOCK–CYC transcription factor and the PER–TIM complex J Neurosci 2000 20 1746 1753 10684876
+element-citation;;;;Balsalobre A  Damiola F  Schibler U   A serum shock induces circadian gene expression in mammalian tissue culture cells Cell 1998 93 929 937 9635423
+element-citation;;;;Cyran S  Buchsbaum A  Reddy K  Lin M  Glossop N   vrille , Pdp1 , and dClock  form a second feedback loop in the  Drosophila  circadian clock Cell 2003 112 329 341 12581523
+element-citation;;;;Dowse H  Hall J  Ringo J   Circadian and ultradian rhythms in period mutants of  Drosophila melanogaster  Behav Genet 1987 17 19 35 3109369
+element-citation;;;;Dunlap JC   Molecular bases for circadian clocks Cell 1999 96 271 290 9988221
+element-citation;;;;Emery P  So W  Kaneko M  Hall J  Rosbash M   CRY, a  Drosophila  clock and light-regulated cryptochrome, is a major contributor to circadian rhythm resetting and photosensitivity Cell 1998 95 669 679 9845369
+element-citation;;;;Emery P  Stanewsky R  Helfrich-Förster C  Emery-Le M  Hall JC    Drosophila  CRY is a deep brain circadian photoreceptor Neuron 2000 26 493 504 10839367
+element-citation;;;;Giebultowicz J  Stanewsky R  Hall J  Hege D   Transplanted  Drosophila  excretory tubules maintain circadian clock cycling out of phase with the host Curr Biol 2000 10 107 111 10662674
+element-citation;;;;Glossop NRJ  Hardin PE   Central and peripheral circadian oscillator mechanisms in flies and mammals J Cell Sci 2002 115 3369 3377 12154068
+element-citation;;;;Glossop NRJ  Lyons LC  Hardin PE   Interlocked feedback loops within the  Drosophila  circadian oscillator Science 1999 286 766 768 10531060
+element-citation;;;;Glossop NRJ  Houl JH  Zheng H  Ng FS  Dudek SM   VRILLE feeds back to control circadian transcription of clock in the  Drosophila  circadian oscillator Neuron 2003 37 249 261 12546820
+element-citation;;;;Hall J   Genetics and molecular biology of rhythms in  Drosophila  and other insects Adv Genet 2003 48 1 280 12593455
+element-citation;;;;Hardin P   Analysis of period  mRNA cycling in  Drosophila  head and body tissues indicates that body oscillators behave differently from head oscillators Mol Cell Biol 1994 14 7211 7218 7935436
+element-citation;;;;Hardin PE  Hall JC  Rosbash M   Behavioral and molecular analyses suggest that circadian output is disrupted by disconnected mutants in  D. melanogaster  EMBO J 1992 11 1 6 1740100
+element-citation;;;;Harmar A  Marston H  Shen S  Spratt C  West K   The VPAC(2) receptor is essential for circadian function in the mouse suprachiasmatic nuclei Cell 2002 109 497 508 12086606
+element-citation;;;;Helfrich-Förster C   The period  clock gene is expressed in central nervous system neurons which also produce a neuropeptide that reveals the projections of circadian pacemaker cells within the brain of  Drosophila melanogaster  Proc Natl Acad Sci U S A 1995 92 612 616 7831339
+element-citation;;;;Helfrich-Förster C   Robust circadian rhythmicity of  Drosophila melanogaster  requires the presence of lateral neurons: A brain-behavioral study of disconnected mutants J Comp Physiol [A] 1997 182 435 453
+element-citation;;;;Helfrich-Förster C  Tauber M  Park JH  Muhlig-Versen M  Schneuwly S   Ectopic expression of the neuropeptide pigment-dispersing factor alters behavioral rhythms in  Drosophila melanogaster  J Neurosci 2000 20 3339 3353 10777797
+element-citation;;;;Kaneko M  Hall JC   Neuroanatomy of cells expressing clock genes in  Drosophila : Transgenic manipulation of the period  and timeless  genes to mark the perikarya of circadian pacemaker neurons and their projections J Comp Neurol 2000 422 66 94 10842219
+element-citation;;;;Krishnan B  Levine J  Lynch M  Dowse H  Funes P   A new role for cryptochrome in a  Drosophila  circadian oscillator Nature 2001 411 313 317 11357134
+element-citation;;;;Levine J  Funes P  Dowse H  Hall J   Advanced analysis of a cryptochrome mutation's effects on the robustness and phase of molecular cycles in isolated peripheral tissues of  Drosophila  BMC Neurosci 2002a 3 5 11960556
+element-citation;;;;Levine J  Funes P  Dowse H  Hall J   Signal analysis of behavioral and molecular cycles BMC Neurosci 2002b 3 1 11825337
+element-citation;;;;Marrus S  Zeng H  Rosbash M   Effect of constant light and circadian entrainment of perS  flies: Evidence for light-mediated delay of the negative feedback loop in  Drosophila  EMBO J 1996 15 6877 6886 9003764
+element-citation;;;;Myers EM  Yu J  Sehgal A   Circadian control of eclosion: Interaction between a central and peripheral clock in  Drosophila melanogaster  Curr Biol 2003 13 526 533 12646138
+element-citation;;;;Nitabach MN  Blau J  Holmes TC   Electrical silencing of  Drosophila  pacemaker neurons stops the free-running circadian clock Cell 2002 109 485 495 12086605
+element-citation;;;;Panda S  Hogenesch J  Kay S   Circadian rhythms from flies to human Nature 2002 417 329 335 12015613
+element-citation;;;;Park JH  Helfrich-Förster C  Lee G  Liu L  Rosbash M   Differential regulation of circadian pacemaker output by separate clock genes in  Drosophila  Proc Natl Acad Sci U S A 2000 97 3608 3613 10725392
+element-citation;;;;Petri B  Stengl M   Pigment-dispersing hormone shifts the phase of the circadian pacemaker of the cockroach  Leucophaea maderae  J Neurosci 1997 17 4087 4093 9151725
+element-citation;;;;Plautz JD  Kaneko M  Hall JC  Kay SA   Independent photoreceptive circadian clocks throughout  Drosophila  Science 1997 278 1632 1635 9374465
+element-citation;;;;Rao K  Riehm J   Pigment-dispersing hormones Ann N Y Acad Sci 1993 680 78 88 8512238
+element-citation;;;;Renn SCP  Park JH  Rosbash M  Hall JC  Taghert PH   A pdf  neuropeptide gene mutation and ablation of PDF neurons each cause severe abnormalities of behavioral circadian rhythms in  Drosophila  Cell 1999 99 791 802 10619432
+element-citation;;;;Rutila JE  Suri V  Le M  So WV  Rosbash M   CYCLE is a second bHLH–PAS clock protein essential for circadian rhythmicity and transcription of  Drosophila period  and timeless  Cell 1998 93 805 814 9630224
+element-citation;;;;Schibler U  Sassone-Corsi P   A web of circadian pacemakers Cell 2002 111 919 922 12507418
+element-citation;;;;Sehgal A  Price J  Man B  Young M   Loss of circadian behavioral rhythms and per  RNA oscillations in the  Drosophila  mutant timeless  Science 1994 263 1603 1606 8128246
+element-citation;;;;Shafer OT  Rosbash M  Truman JW   Sequential nuclear accumulation of the clock proteins Period and Timeless in the pacemaker neurons of  Drosophila melanogaster  J Neurosci 2002 22 5946 5954 12122057
+element-citation;;;;Stanewsky R  Jamison CF  Plautz JD  Kay SA  Hall JC   Multiple circadian-regulated elements contribute to cycling period gene expression in  Drosophila  EMBO J 1997 16 5006 5018 9305642
+element-citation;;;;Stanewsky R  Kaneko M  Emery P  Beretta B  Wager-Smith K   The cry  mutation identifies cryptochrome as a circadian photoreceptor in b Drosophila  Cell 1998 95 681 692 9845370
+element-citation;;;;Sujino M  Masumoto K  Yamaguchi S  van der Horst GT  Okamura H   Suprachiasmatic nucleus grafts restore circadian behavioral rhythms of genetically arrhythmic mice Curr Biol 2003 13 664 668 12699623
+element-citation;;;;Toma DP  White KP  Hirsch J  Greenspan RJ   Identification of genes involved in  Drosophila melanogaster  geotaxis, a complex behavioral trait Nat Genet 2002 31 349 353 12042820
+element-citation;;;;Yang Z  Sehgal A   Role of molecular oscillations in generating behavioral rhythms in  Drosophila  Neuron 2001 29 453 467 11239435
+element-citation;;;;Zhao J  Kilman VL  Keegan KP  Peng Y  Emery P    Drosophila  clock can generate ectopic circadian clocks Cell 2003 113 755 766 12809606

@@ -1,0 +1,75 @@
+name;;;;Bozdech Zbynek
+name;;;;Llinás Manuel
+name;;;;Pulliam Brian Lee
+name;;;;Wong Edith D
+name;;;;Zhu Jingchun
+name;;;;DeRisi Joseph L
+aff;;;;Department of Biochemistry and Biophysics, University of California, San Francisco San Francisco, California United States of America
+aff;;;;Department of Biological and Medical Informatics, University of California, San Francisco San Francisco, California United States of America
+element-citation;;;;Afonso Nogueira P  Wunderlich G  Shugiro Tada M  d'Arc Neves Costa J  Jose Menezeset M    Plasmodium falciparum : Analysis of transcribed var  gene sequences in natural isolates from the Brazilian Amazon region Exp Parasitol 2002 101 111 120 12427465
+element-citation;;;;Arbeitman MN  Furlong EE  Imam F  Johnson E  Null BH   Gene expression during the life cycle of  Drosophila melanogaster  Science 2002 297 2270 2275 12351791
+element-citation;;;;Bahl A  Brunk B  Crabtree J  Fraunholz MJ  Gajria B   PlasmoDB: The Plasmodium  genome resource: A database integrating experimental and computational data Nucleic Acids Res 2003 31 212 215 12519984
+element-citation;;;;Ben Mamoun C  Gluzman IY  Hott C  MacMillan SK  Amarakone AS   Co-ordinated programme of gene expression during asexual intraerythrocytic development of the human malaria parasite  Plasmodium falciparum  revealed by microarray analysis Mol Microbiol 2001 39 26 36 11123685
+element-citation;;;;Blackman MJ   Proteases involved in erythrocyte invasion by the malaria parasite: Function and potential as chemotherapeutic targets Curr Drug Targets 2000 1 59 83 11475536
+element-citation;;;;Bozdech Z  Zhu J  Joachimiak MP  Cohen FE  Pulliam B   Expression profiling of the schizont and trophozoite stages of  Plasmodium falciparum  with a long-oligonucleotide microarray Genome Biol 2003 4 R9 12620119
+element-citation;;;;Cheng Q  Cloonan N  Fischer K  Thompson J  Waine G   stevor  and rif  are  Plasmodium falciparum  multicopy gene families which potentially encode variant antigens Mol Biochem Parasitol 1998 97 161 176 9879895
+element-citation;;;;Coombs GH  Goldberg DE  Klemba M  Berry C  Kay J   Aspartic proteases of  Plasmodium falciparum  and other parasitic protozoa as drug targets Trends Parasitol 2001 17 532 537 11872398
+element-citation;;;;Cowman AF  Baldi DL  Healer J  Mills KE  O'Donnell RA   Functional analysis of proteins involved in  Plasmodium falciparum  merozoite invasion of red blood cells FEBS Lett 2000 476 84 88 10878256
+element-citation;;;;Deitsch KW  Calderwood MS  Wellems TE   Malaria: Cooperative silencing elements in var  genes Nature 2001 412 875 876
+element-citation;;;;Dluzewski AR  Garcia CR   Inhibition of invasion and intraerythrocytic development of  Plasmodium falciparum  by kinase inhibitors Experientia 1996 52 621 623 8698101
+element-citation;;;;Eisen MB  Brown PO   DNA arrays for analysis of gene expression Methods Enzymol 1999 303 179 205 10349646
+element-citation;;;;Feagin JE  Gardner MJ  Williamson DH  Wilson RJ   The putative mitochondrial genome of  Plasmodium falciparum  J Protozool 1991 38 243 245 1880762
+element-citation;;;;Fichera ME  Roos DS   A plastid organelle as a drug target in apicomplexan parasites Nature 1997 390 407 409 9389481
+element-citation;;;;Florens L  Washburn MP  Raine JD  Anthony RM  Grainger M   A proteomic view of the  Plasmodium falciparum  life cycle Nature 2002 419 520 526 12368866
+element-citation;;;;Foley M  Tilley L  Sawyer WH  Anders RF   The ring-infected erythrocyte surface antigen of  Plasmodium falciparum  associates with spectrin in the erythrocyte membrane Mol Biochem Parasitol 1991 46 137 147 1852169
+element-citation;;;;Foth BJ  Ralph SA  Tonkin CJ  Struck NS  Fraunholz M   Dissecting apicoplast targeting in the malaria parasite  Plasmodium falciparum  Science 2003 299 705 708 12560551
+element-citation;;;;Fox BA  Li WB  Tanaka M  Inselburg J  Bzik DJ   Molecular characterization of the largest subunit of  Plasmodium falciparum  RNA polymerase I Mol Biochem Parasitol 1993 61 37 48 8259131
+element-citation;;;;Francis SE  Sullivan DJ Jr  Goldberg DE   Hemoglobin metabolism in the malaria parasite  Plasmodium falciparum  Annu Rev Microbiol 1997 51 97 123 9343345
+element-citation;;;;Gardner MJ  Hall N  Fung E  White O  Berriman M   Genome sequence of the human malaria parasite  Plasmodium falciparum  Nature 2002 419 498 511 12368864
+element-citation;;;;Gero AM  O'Sullivan WJ   Purines and pyrimidines in malarial parasites Blood Cells 1990 16 467 484 2257323
+element-citation;;;;Good MF   Towards a blood-stage vaccine for malaria: Are we following all the leads? Nat Rev Immunol 2001 1 117 125 11905819
+element-citation;;;;Good MF  Doolan DL   Immune effector mechanisms in malaria Curr Opin Immunol 1999 11 412 419 10448141
+element-citation;;;;Good MF  Kaslow DC  Miller LH   Pathways and strategies for developing a malaria blood-stage vaccine Annu Rev Immunol 1998 16 57 87 9597124
+element-citation;;;;Gray JW  Collins C   Genome changes and gene expression in human solid tumors Carcinogenesis 2000 21 443 452 10688864
+element-citation;;;;Greenbaum DC  Baruch A  Grainger M  Bozdech Z  Medzihradszky KF   A role for the protease falcipain 1 in host cell invasion by the human malaria parasite Science 2002 298 2002 2006 12471262
+element-citation;;;;Gruner AC  Brahimi K  Eling W  Konings R  Meis J   The  Plasmodium falciparum  knob-associated PfEMP3 antigen is also expressed at preerythrocytic stages and induces antibodies which inhibit sporozoite invasion Mol Biochem Parasitol 2001 112 253 261 11223132
+element-citation;;;;Hayward RE  DeRisi JL  Alfadhli S  Kaslow DC  Brown PO   Shotgun DNA microarrays and stage-specific gene expression in  Plasmodium falciparum  malaria Mol Microbiol 2000 35 6 14 10632873
+element-citation;;;;Horrocks P  Dechering K  Lanzer M   Control of gene expression in  Plasmodium falciparum  Mol Biochem Parasitol 1998 95 171 181 9803410
+element-citation;;;;Jomaa H  Wiesner J  Sanderbrand S  Altincicek B  Weidemeyer C   Inhibitors of the nonmevalonate pathway of isoprenoid biosynthesis as antimalarial drugs Science 1999 285 1573 1576 10477522
+element-citation;;;;Kaneko O  Tsuboi T  Ling IT  Howell S  Shirano M   The high molecular mass rhoptry protein, RhopH1, is encoded by members of the clag  multigene family in  Plasmodium falciparum  and  Plasmodium yoelii  Mol Biochem Parasitol 2001 118 223 231 11738712
+element-citation;;;;Kissinger JC  Brunk BP  Crabtree J  Fraunholz MJ  Gajria B   The Plasmodium  genome database Nature 2002 419 490 492 12368860
+element-citation;;;;Kumar S  Epstein JE  Richie TL  Nkrumah FK  Soisson L   A multilateral effort to develop DNA vaccines against falciparum malaria Trends Parasitol 2002 18 129 135 11854091
+element-citation;;;;Lang-Unnasch N   Purification and properties of  Plasmodium falciparum  malate dehydrogenase Mol Biochem Parasitol 1992 50 17 25 1542310
+element-citation;;;;Lasonder E  Ishihama Y  Andersen JS  Vermunt AM  Pain A   Analysis of the  Plasmodium falciparum  proteome by high-accuracy mass spectrometry Nature 2002 419 537 542 12368870
+element-citation;;;;Le Roch KG  Zhou Y  Batalov S  Winzeler EA   Monitoring the chromosome 2 intraerythrocytic transcriptome of  Plasmodium falciparum  using oligonucleotide arrays Am J Trop Med Hyg 2002 67 233 243 12408661
+element-citation;;;;Li WB  Bzik DJ  Gu HM  Tanaka M  Fox BA   An enlarged largest subunit of  Plasmodium falciparum  RNA polymerase II defines conserved and variable RNA polymerase domains Nucleic Acids Res 1989 17 9621 9636 2690004
+element-citation;;;;Li WB  Bzik DJ  Tanaka M  Gu HM  Fox BA   Characterization of the gene encoding the largest subunit of  Plasmodium falciparum  RNA polymerase III Mol Biochem Parasitol 1991 46 229 239 1656254
+element-citation;;;;McFadden GI  Roos DS   Apicomplexan plastids as drug targets Trends Microbiol 1999 7 328 333 10431206
+element-citation;;;;Miller SK  Good RT  Drew DR  Delorenzi M  Sanders PR   A subset of  Plasmodium falciparum  SERA genes are expressed and appear to play an important role in the erythrocytic cycle J Biol Chem 2002 277 47524 47532 12228245
+element-citation;;;;Myler PJ  Beverley SM  Cruz AK  Dobson DE  Ivens AC   The Leishmania  genome project: New insights into gene organization and function Med Microbiol Immunol (Berl) 2001 190 9 12 11770120
+element-citation;;;;Opitz C  Soldati D   “The glideosome”: A dynamic complex powering gliding motion and host cell invasion by  Toxoplasma gondii  Mol Microbiol 2002 45 597 604 12139608
+element-citation;;;;Patankar S  Munasinghe A  Shoaibi A  Cummings LM  Wirth DF   Serial analysis of gene expression in  Plasmodium falciparum  reveals the global expression profile of erythrocytic stages and the presence of anti-sense transcripts in the malarial parasite Mol Biol Cell 2001 12 3114 3125 11598196
+element-citation;;;;Pinder J  Fowler R  Bannister L  Dluzewski A  Mitchell GH   Motile systems in malaria merozoites: How is the red blood cell invaded? Parasitol Today 2000 16 240 245 10827429
+element-citation;;;;Pollack JR  Perou CM  Alizadeh AA  Eisen MB  Pergamenschikov A   Genome-wide analysis of DNA copy-number changes using cDNA microarrays Nat Genet 1999 23 41 46 10471496
+element-citation;;;;Pollack JR  Sorlie T  Perou CM  Rees CA  Jeffrey SS   Microarray analysis reveals a major direct role of DNA copy number alteration in the transcriptional program of human breast tumors Proc Natl Acad Sci U S A 2002 99 12963 12968 12297621
+element-citation;;;;Preiser P  Kaviratne M  Khan S  Bannister L  Jarra W   The apical organelles of malaria merozoites: Host cell selection, invasion, host immunity and immune evasion Microbes Infect 2000 2 1461 1477 11099933
+element-citation;;;;Ramasamy R  Ramasamy M  Yasawardena S   Antibodies and  Plasmodium falciparum  merozoites Trends Parasitol 2001 17 194 197 11282510
+element-citation;;;;Reyes P  Rathod PK  Sanchez DJ  Mrema JE  Rieckmann KH   Enzymes of purine and pyrimidine metabolism from the human malaria parasite,  Plasmodium falciparum  Mol Biochem Parasitol 1982 5 275 290 6285190
+element-citation;;;;Ridley RG   Medical need, scientific opportunity and the drive for antimalarial drugs Nature 2002 415 686 693 11832957
+element-citation;;;;Rosenthal PJ   Hydrolysis of erythrocyte proteins by proteases of malaria parasites Curr Opin Hematol 2002 9 140 145 11844998
+element-citation;;;;Roy A  Cox RA  Williamson DH  Wilson RJ   Protein synthesis in the plastid of  Plasmodium falciparum  Protist 1999 150 183 188 10505417
+element-citation;;;;Sachs J  Malaney P   The economic and social burden of malaria Nature 2002 415 680 685 11832956
+element-citation;;;;Sherman I Malaria: Parasite biology, pathogenesis, and protection 1998
+element-citation;;;;Spellman PT  Sherlock G  Zhang MQ  Iyer VR  Anders K   Comprehensive identification of cell cycle–regulated genes of the yeast  Saccharomyces cerevisiae  by microarray hybridization Mol Biol Cell 1998 9 3273 3297 9843569
+element-citation;;;;Troye-Blomberg M  Riley EM  Perlmann H  Andersson G  Larsson A   T and B cell responses of  Plasmodium falciparum  malaria-immune individuals to synthetic peptides corresponding to sequences in different regions of the  P. falciparum  antigen Pf155/RESA J Immunol 1989 143 3043 3048 2478632
+element-citation;;;;Waller RF  Keeling PJ  Donald RG  Striepen B  Handman E   Nuclear-encoded proteins target to the plastid in  Toxoplasma gondii  and  Plasmodium falciparum  Proc Natl Acad Sci U S A 1998 95 12352 12357 9770490
+element-citation;;;;Waller RF  Reed MB  Cowman AF  McFadden GI   Protein trafficking to the plastid of  Plasmodium falciparum  is via the secretory pathway EMBO J 2000 19 1794 1802 10775264
+element-citation;;;;Walliker D  Quakyi IA  Wellems TE  McCutchan TF  Szarfman A   Genetic analysis of the human malaria parasite  Plasmodium falciparum  Science 1987 236 1661 1666 3299700
+element-citation;;;;Wang P  Wang Q  Sims PF  Hyde JE   Rapid positive selection of stable integrants following transfection of  Plasmodium falciparum  Mol Biochem Parasitol 2002 123 1 10 12165384
+element-citation;;;;Wellems TE  Panton LJ  Gluzman IY  do Rosario VE  Gwadz RW   Chloroquine resistance not linked to mdr -like genes in a  Plasmodium falciparum  cross Nature 1990 345 253 255 1970614
+element-citation;;;;Whitfield ML  Sherlock G  Saldanha AJ  Murray JI  Ball CA   Identification of genes periodically expressed in the human cell cycle and their expression in tumors Mol Biol Cell 2002 13 1977 2000 12058064
+element-citation;;;;Williamson DH  Preiser PR  Moore PW  McCready S  Strath M   The plastid DNA of the malaria parasite  Plasmodium falciparum  is replicated by two mechanisms Mol Microbiol 2002 45 533 542 12123462
+element-citation;;;;Wilson RJ   Progress with parasite plastids J Mol Biol 2002 319 257 274 12051904
+element-citation;;;;Wilson RJ  Denny PW  Preiser PR  Rangachari K  Roberts K   Complete gene map of the plastid-like DNA of the malaria parasite  Plasmodium falciparum  J Mol Biol 1996 261 155 172 8757284
+element-citation;;;;Wu Y  Wang X  Liu X  Wang Y   Data-mining approaches reveal hidden families of proteases in the genome of malaria parasite Genome Res 2003 13 601 616 12671001
+element-citation;;;;Zuegge J  Ralph S  Schmuker M  McFadden GI  Schneider G   Deciphering apicoplast targeting signals-feature extraction from nuclear-encoded precursors of  Plasmodium falciparum  apicoplast proteins Gene 2001 280 19 26 11738814

@@ -1,0 +1,28 @@
+name;;;;Lee Ethan
+name;;;;Salic Adrian
+name;;;;Krüger Roland
+name;;;;Heinrich Reinhart
+name;;;;Kirschner Marc W
+aff;;;;Department of Cell Biology, Harvard Medical School Boston, Massachusetts United States of America
+aff;;;;Department of Theoretical Biophysics, Institute of Biology Humboldt University Berlin, Berlin Germany
+aff;;;;Department of Cell and Developmental Biology, Vanderbilt University Medical Center Nashville, Tennessee United States of America
+element-citation;;;;Alon U  Surette MG  Barkai N  Leibler S   Robustness in bacterial chemotaxis Nature 1999 397 168 171 9923680
+element-citation;;;;Dajani R  Fraser E  Roe SM  Yeo M  Good VM   Structural basis for recruitment of glycogen synthase kinase 3β to the axin–APC scaffold complex EMBO J 2003 22 494 501 12554650
+element-citation;;;;Fell D Understanding the control of metabolism 1997 300
+element-citation;;;;Gerhart J   1998 Warkany lecture: Signaling pathways in development Teratology 1999 60 226 239 10508976
+element-citation;;;;Gerhart J  Kirschner MW Cells, embryos, and evolution 1997 642
+element-citation;;;;Heinrich R  Rapoport TA   A linear steady-state treatment of enzymatic chains: General properties, control and effector strength Eur J Biochem 1974 42 89 95 4830198
+element-citation;;;;Heinrich R  Schuster S The regulation of cellular systems 1996 372
+element-citation;;;;Heinrich R  Neel BG  Rapoport TA   Mathematical models of protein kinase signal transduction Mol Cell 2002 9 957 970 12049733
+element-citation;;;;Kang DE  Soriano S  Xia X  Eberhart CG  De Strooper B   Presenilin couples the paired phosphorylation of β-catenin independent of axin: Implications for β-catenin activation in tumorigenesis Cell 2002 110 751 762 12297048
+element-citation;;;;Kholodenko BN  Hoeck JB  Westerhoff HV  Brown GC   Quantification of information transfer via signal transduction pathways FEBS Lett 1997 414 430 434 9315734
+element-citation;;;;Lee E  Salic A  Kirschner MW   Physiological regulation of β-catenin stability by Tcf3 and CK1ɛ J Cell Biol 2001 154 983 993 11524435
+element-citation;;;;Liu J  Stevens J  Rote CA  Yost HJ  Hu Y   Siah-1 mediates a novel β-catenin degradation pathway linking p53 to the adenomatous polyposis coli protein Mol Cell 2001 7 927 936 11389840
+element-citation;;;;Marshall CJ   Specificity of receptor tyrosine kinase signaling: Transient versus sustained extracellular signal-regulated kinase activation Cell 1995 80 179 185 7834738
+element-citation;;;;Matsuzawa SI  Reed JC   Siah-1, SIP, and Ebi collaborate in a novel pathway for β-catenin degradation linked to p53 responses Mol Cell 2001 7 915 926 11389839
+element-citation;;;;Munemitsu S  Albert I  Souza B  Rubinfeld B  Polakis P   Regulation of intracellular β-catenin levels by the adenomatous polyposis coli (APC) tumor-suppressor protein Proc Natl Acad Sci U S A 1995 92 3046 3050 7708772
+element-citation;;;;Papkoff J  Rubinfeld B  Schryver B  Polakis P   Wnt-1 regulates free pools of catenins and stabilizes APC–catenin complexes Mol Cell Biol 1996 16 2128 2134 8628279
+element-citation;;;;Salic A  Lee E  Kirschner MW   Control of β-catenin stability: Reconstitution of the cytoplasmic steps of the Wnt pathway in  Xenopus  egg extracts Mol Cell 2000 5 523 532 10882137
+element-citation;;;;Tolwinski NS  Wehrli M  Rives A  Erdeniz N  DiNardo S   Wg/Wnt signal can be transmitted through arrow/LRP5,6 and Axin independently of Zw3/GSK3β activity Dev Cell 2003 4 407 418 12636921
+element-citation;;;;Willert K  Logan CY  Arora A  Fish M  Nusse R   A Drosophila  Axin homolog, Daxin inhibits Wnt signaling Development 1999 126 4165 4173 10457025
+element-citation;;;;Yamamoto H  Kishida S  Kishida M  Ikeda S  Takada S   Phosphorylation of axin, a Wnt signal negative regulator, by glycogen synthase kinase-3β regulates its stability J Biol Chem 1999 274 10681 10684 10196136

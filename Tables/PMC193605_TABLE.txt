@@ -1,0 +1,64 @@
+name;;;;Lerat Emmanuelle
+name;;;;Daubin Vincent
+name;;;;Moran Nancy A
+aff;;;;Department of Ecology and Evolutionary Biology, University of Arizona Tucson, Arizona United States of America
+aff;;;;Department of Biochemistry and Molecular Biophysics, University of Arizona Tucson, Arizona United States of America
+element-citation;;;;Akman L  Yamashita A  Watanabe H  Oshima K  Shiba T   Genome sequence of the endocellular obligate symbiont of tsetse flies,  Wigglesworthia glossinidia  Nat Genet 2002 32 402 407 12219091
+element-citation;;;;Altschul SF  Madden TL  Schäffer AA  Zhang J  Zhang Z   Gapped BLAST and PSI-BLAST: A new generation of protein database search programs Nucleic Acids Res 1997 25 3389 3402 9254694
+element-citation;;;;Benson DA  Karsch-Mizrachi I  Lipman DJ  Ostell J  Rapp BA   GenBank Nucleic Acids Res 2002 30 17 20 11752243
+element-citation;;;;Blattner FR  Plunkett G  Bloch CA  Perna NT  Burland V   The complete genome sequence of  Escherichia coli  K-12 Science 1997 277 1453 1474 9278503
+element-citation;;;;Brochier C  Philippe H  Moreira D   The evolutionary history of ribosomal protein RpS14: Horizontal gene transfer at the heart of the ribosome Trends Genet 2000 16 529 533 11102698
+element-citation;;;;Brochier C  Bapteste E  Moreira D  Philippe H   Eubacterial phylogeny based on translational apparatus proteins Trends Genet 2002 18 1 5 11750686
+element-citation;;;;Brown JR   Ancient horizontal gene transfer Nat Rev Genet 2003 4 121 132 12560809
+element-citation;;;;Brown JR  Douady CJ  Italia MJ  Marshall WE  Stanhope MJ   Universal trees based on large combined protein sequence data sets Nat Genet 2001 28 281 285 11431701
+element-citation;;;;Clark MA  Moran NA  Baumann P   Sequence evolution in bacterial endosymbionts having extreme base composition Mol Biol Evol 1999 16 1586 1598 10555290
+element-citation;;;;da Silva ACR  Ferro JA  Reinach FC  Farah CS  Furlan LR   Comparison of the genomes of two  Xanthomonas  pathogens with differing host specificities Nature 2002 417 459 463 12024217
+element-citation;;;;Daubin V  Gouy M  Perrière G   A phylogenomic approach to bacterial phylogeny: Evidence of a core of genes sharing a common history Genome Res 2002 12 1080 1090 12097345
+element-citation;;;;Daubin V  Lerat E  Perrière G   The source of lateral gene transfer in bacteria Genome Biol 2003a
+element-citation;;;;Daubin V  Moran N  Ochman H   Phylogenetics and the cohesion of bacterial genomes Science 2003b 301 829 832 12907801
+element-citation;;;;Deng W  Burland V  Plunkett G  Boutin A  Mayhew GF   Genome sequence of  Yersinia pestis  KIM J Bacteriol 2002 184 4601 4611 12142430
+element-citation;;;;Doolittle WF   Phylogenetic classification and the universal tree Science 1999 284 2124 2129 10381871
+element-citation;;;;Felsenstein J   PHYLIP (Phylogeny Inference Package), version 3.6 2002
+element-citation;;;;Fleischmann RD  Adams MD  White O  Clayton RA  Kirkness EF   Whole-genome random sequencing and assembly of  Haemophilus influenzae  Rd Science 1995 269 496 512 7542800
+element-citation;;;;Galtier N  Gouy M  Gautier C   SEAVIEW and PHYLO_WIN: Two graphic tools for sequence alignment and molecular phylogeny Comput Appl Biosci 1996 12 543 548 9021275
+element-citation;;;;Gogarten JP  Doolittle WF  Lawrence JG   Prokaryotic evolution in light of gene transfer Mol Biol Evol 2002 19 2226 2238 12446813
+element-citation;;;;Goldman N  Anderson JP  Rodrigo AG   Likelihood-based tests of topologies in phylogenetics Syst Biol 2000 49 652 670 12116432
+element-citation;;;;Heidelberg JF  Eisen JA  Nelson WC  Clayton RA  Gwinn ML   DNA sequence of both chromosomes of the cholera pathogen  Vibrio cholerae  Nature 2000 406 477 483 10952301
+element-citation;;;;Hillis DM  Pollock DD  McGuire JA  Zwickl DJ   Is sparse taxon sampling a problem for phylogenetic inference? Syst Biol 2003 52 124 126 12554446
+element-citation;;;;Jain R  Rivera MC  Lake JA   Horizontal gene transfer among genomes: The complexity hypothesis Proc Natl Acad Sci U S A 1999 96 3801 3806 10097118
+element-citation;;;;Jones DT  Taylor WR  Thornton JM   The rapid generation of mutation data matrices from protein sequences Comput Appl Biosci 1992 8 275 282 1633570
+element-citation;;;;Koski LB  Golding GB   The closest BLAST hit is often not the nearest neighbor J Mol Evol 2001 52 540 542 11443357
+element-citation;;;;Kumar S  Tamura K  Nei M   MEGA: Molecular Evolutionary Genetics Analysis, version 1.01 1993
+element-citation;;;;Lawrence JG  Ochman H   Amelioration of bacterial genomes: Rates of change and exchange J Mol Evol 1997 44 383 397 9089078
+element-citation;;;;May BJ  Zhang Q  Li LL  Paustian ML  Whittam TS   Complete genomic sequence of  Pasteurella multocida  Pm70 Proc Natl Acad Sci U S A 2001 98 3460 3465 11248100
+element-citation;;;;McClelland M  Sanderson KE  Spieth J  Clifton SW  Latreille P   Complete genome sequence of  Salmonella enterica  serovar Typhimurium LT2 Nature 2001 413 852 856 11677609
+element-citation;;;;Moran NA   Accelerated evolution and Muller's rachet in endosymbiotic bacteria Proc Natl Acad Sci U S A 1996 93 2873 2878 8610134
+element-citation;;;;Moran NA  Mira A   The process of genome shrinkage in the obligate symbiont,  Buchnera aphidicola  Genome Biol 2001 2
+element-citation;;;;Moya A  Latorre A  Sabater-Munoz B  Silva FJ   Comparative molecular evolution of primary ( Buchnera ) and secondary symbionts of aphids based on two protein-coding genes J Mol Evol 2002 55 127 137 12107590
+element-citation;;;;Nelson KE  Clayton RA  Gill SR  Gwinn ML  Dodson RJ   Evidence for lateral gene transfer between Archaea and bacteria from genome sequence of  Thermotoga maritima  Nature 1999 399 323 329 10360571
+element-citation;;;;Nesbø CL  Boucher Y  Doolittle WF   Defining the core of nontransferable prokaryotic genes: The euryarchaeal core J Mol Evol 2001 53 340 350 11675594
+element-citation;;;;Ochman H  Jones IB   Evolutionary dynamics of full genome content in  Escherichia coli  EMBO J 2000 19 6637 6643 11118198
+element-citation;;;;Ochman H  Lawrence JG  Groisman EA   Lateral gene transfer and the nature of bacterial innovation Nature 2000 405 299 304 10830951
+element-citation;;;;Parkhill J  Wren BW  Thomson NR  Titball RW  Holden MTG   Genome sequence of  Yersinia pestis , the causative agent of plague Nature 2001 413 523 527 11586360
+element-citation;;;;Parkhill J  Dougan G  James KD  Thomson NR  Pickard D   Complete genome sequence of a multiple drug resistant  Salmonella enterica  serovar Typhi CT18 Nature 2001 413 848 852 11677608
+element-citation;;;;Pedulla ML  Ford ME  Houtz JM  Karthikeyan T  Wadsworth C   Origins of highly mosaic mycobacteriophage genomes Cell 2003 113 171 182 12705866
+element-citation;;;;Perna NT  Plunkett G  Burland V  Mau B  Glasner JD   Genome sequence of enterohaemorrhagic  Escherichia coli  O157:H7 Nature 2001 409 529 533 11206551
+element-citation;;;;Schmidt HA  Strimmer K  Vingron M  von Haeseler A   TREE-PUZZLE: Maximum likelihood phylogenetic analysis using quartets and parallel computing Bioinformatics 2002 18 502 504 11934758
+element-citation;;;;Shigenobu S  Watanabe H  Hattori M  Sakaki Y  Ishikawa H   Genome sequence of the endocellular bacterial symbiont of aphids  Buchnera  sp. APS Nature 2000 407 81 86 10993077
+element-citation;;;;Shimodaira H  Hasegawa M   Multiple comparisons of log-likelihoods with applications to phylogenetic inference Mol Biol Evol 1999 16 1114 1116
+element-citation;;;;Simpson AJG  Reinach FC  Arruda P  Abreu FA  Acencio M   The genome sequence of the plant pathogen  Xylella fastidiosa : The  Xylella fastidiosa  Consortium of the Organization for Nucleotide Sequencing and Analysis Nature 2000 406 151 157 10910347
+element-citation;;;;Singer GAC  Hickey DA   Nucleotide bias causes a genomewide bias in the amino acid composition of proteins Mol Biol Evol 2000 17 1581 1588 11070046
+element-citation;;;;Spaulding AW  von Dohlen CD   Phylogenetic characterization and molecular evolution of bacterial endosymbionts in psyllids (Hemiptera: Sternorrhyncha) Mol Biol Evol 1998 15 1506 1513 12572614
+element-citation;;;;Stover CK  Pham X-QT  Erwin AL  Mizoguchi SD  Warrener P   Complete genome sequence of  Pseudomonas aeruginosa  PA01, an opportunistic pathogen Nature 2000 406 959 964 10984043
+element-citation;;;;Tatusov RL  Mushegian AR  Bork P  Brown NP  Hayes WS   Metabolism and evolution of  Haemophilus influenzae  deduced from a whole-genome comparison with  Escherichia coli  Curr Biol 1996 6 279 291 8805245
+element-citation;;;;Thompson JD  Higgins DG  Gibson TJ   CLUSTALW: Improving the sensitivity of progressive multiple sequence alignment through sequence weighting, positions-specific gap penalties and weight matrix choice Nucleic Acids Res 1994 22 4673 4680 7984417
+element-citation;;;;Tomii K  Kanehisa M   A comparative analysis of ABC transporters in complete microbial genomes Genome Res 1998 8 1048 1059 9799792
+element-citation;;;;Ueda K  Seki T  Kudo T  Yoshida T  Kataoka M   Two distinct mechanisms cause heterogeneity of 16S rRNA J Bacteriol 1999 181 78 82 9864315
+element-citation;;;;van Ham RCHJ  Moya A  Latorre A   Putative evolutionary origin of plasmids carrying the genes involved in leucine biosynthesis in  Buchnera aphidicola  (endosymbiont of aphids) J Bacteriol 1997 179 4768 4777 9244264
+element-citation;;;;Woese CR   Bacterial evolution Microbiol Rev 1987 51 221 271 2439888
+element-citation;;;;Wolanin PM  Thomason PA  Stock JB   Histidine protein kinases: Key signal transducers outside the animal kingdom Genome Biol 2002 3
+element-citation;;;;Wolf YI  Rogozin IB  Grishin NV  Koonin EV   Genome trees and the tree of life Trends Genet 2002 18 472 479 12175808
+element-citation;;;;Xie G  Bonner CA  Brettin T  Gottardo R  Keyhani NO   Lateral gene transfer and ancient paralogy of operons containing redundant copies of tryptophan-pathway genes in  Xylella  species and in heterocystous cyanobacteria Genome Biol 2003 4
+element-citation;;;;Yap WH  Zhang Z  Wang Y   Distinct types of rRNA operons exist in the genome of the actinomycete  Thermomonospora chromogena  and evidence for horizontal transfer of an entire rRNA operon J Bacteriol 1999 181 5201 5209 10464188
+element-citation;;;;Zhaxybayeva O  Gogarten JP   Bootstrap, Bayesian probability and maximum likelihood mapping: Exploring new tools for comparative genome analyses BMC Genomics 2002 3
+element-citation;;;;Zwickl DJ  Hillis DM   Increased taxon sampling greatly reduces phylogenetic error Syst Biol 2002 51 588 598 12228001
