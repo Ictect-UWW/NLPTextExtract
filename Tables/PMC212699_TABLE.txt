@@ -1,0 +1,40 @@
+name;;;;Braendle Christian
+name;;;;Miura Toru
+name;;;;Bickel Ryan
+name;;;;Shingleton Alexander W
+name;;;;Kambhampati Srinivas
+name;;;;Stern David L
+aff;;;;Department of Ecology and Evolutionary Biology, Princeton University Princeton, New Jersey United States of America
+aff;;;;Laboratory for Development and Evolution, University Museum of Zoology Cambridge United Kingdom
+aff;;;;Department of Biology, Graduate School of Arts and Sciences University of Tokyo, Tokyo Japan
+aff;;;;Department of Entomology, Kansas State University Manhattan, Kansas United States of America
+element-citation;;;;Baumann P  Moran NA  Baumann L Bacteriocyte-associated endosymbionts of insects. In: Dworkin M, editor. The prokaryotes [online] 2000
+element-citation;;;;Buchner P Endosymbiosis of animals with plant microorganisms 1965 909
+element-citation;;;;Caillaud CM  Rahbé Y   Aposymbiosis in a cereal aphid: Reproductive failure and influence on plant utilization Ecol Entomol 1999 24 111 114
+element-citation;;;;Chang CC  Dearden P  Akam M   Germ line development in the grasshopper  Schistocerca gregaria : Vasa as a marker Dev Biol 2002 252 100 118 12453463
+element-citation;;;;Dale C  Young SA  Haydon DT  Welburn SC   The insect endosymbiont  Sodalis glossinidius  utilizes a type III secretion system for cell invasion Proc Natl Acad Sci U S A 2001 98 1883 1888 11172045
+element-citation;;;;Dixon AFG Aphid ecology 1985 312
+element-citation;;;;Fukatsu T  Ishikawa H   A novel eukaryotic extracellular symbiont in an aphid,  Astegopteryx styraci  (Homoptera, Aphididae, Hormaphidinae) J Insect Physiol 1992a 38 765 773
+element-citation;;;;Fukatsu T  Ishikawa H   Soldier and male of an eusocial aphid,  Colophina arma , lack endosymbiont: Implications for physiological and evolutionary interaction between host and symbiont J Insect Physiol 1992b 38 1033 1042
+element-citation;;;;Fukatsu T  Aoki S  Kurosu U  Ishikawa H   Phylogeny of Cerataphidini  aphids revealed by their symbiotic microorganisms and basic structure of their galls: Implications for host–symbiont coevolution and evolution of sterile soldier castes Zool Sci 1994 11 613 623
+element-citation;;;;Hidalgo A   The roles of engrailed Trends Genet 1996 12 1 4 8741849
+element-citation;;;;Kelsh R  Weinzierl ROJ  White RAH  Akam M   Homeotic gene expression in the locust Schistocerca : An antibody that detects conserved epitopes in Ultrabithorax  and abdominal-A  proteins Dev Genet 1994 15 19 31 7514518
+element-citation;;;;Klevenhusen F   Beiträge zur Kenntnis der Aphidensymbiose Zeit Morphol Ökol Tiere 1927 9 96 165
+element-citation;;;;Kuner JM  Nakanishi M  Ali Z  Drees B  Gustavson E   Molecular cloning of engrailed : A gene involved in the development of pattern in Drosophila melanogaster Cell 1985 42 309 316 2990728
+element-citation;;;;Lampel G   Die symbiontischen Einrichtungen im Rahmen des Generationswechsels monözischer und heterözischer Pemphiginen der Schwarz- und Pyramidenpappel Zeit Morphol Ökol Tiere 1958 47 403 435
+element-citation;;;;Lampel G   Untersuchungen zur Morphenfolge von  Pemphigus spyrothecae  Pass. 1860 (Homoptera, Aphidoidea) Bull Naturf Gesell 1968 58 56 72
+element-citation;;;;McFall-Ngai MJ  Ruby EG   Symbiont recognition and subsequent morphogenesis as early events in an animal–bacterial mutualism Science 1991 254 1491 1494 1962208
+element-citation;;;;Miura T  Braendle C  Shingleton A  Sisk G  Kambhampati S   A comparison of parthenogenetic and sexual embryogenesis of the pea aphid  Acyrthosiphon pisum  (Hemiptera: Aphidoidea) J Exp Zool (Mol Dev Evol) 2003 295 59 81
+element-citation;;;;Panganiban G  Rubenstein JLR   Developmental functions of the Distal-less/Dlx  homeobox genes Development 2002 129 4371 4386 12223397
+element-citation;;;;Panganiban G  Sebring A  Nagy L  Carroll S   The development of crustacean limbs and the evolution of arthropods Science 1995 270 1363 1366 7481825
+element-citation;;;;Patel NH  Martin-Blanco E  Coleman KG  Poole SJ  Ellis MC   Expression of engrailed  proteins in arthropods, annelids, and chordates Cell 1989 58 955 968 2570637
+element-citation;;;;Patel NH  Condron BG  Zinn K   Pair-rule expression patterns of even-skipped are found in both short- and long-germ beetles Nature 1994 367 429 434 8107801
+element-citation;;;;Shigenobu S  Watanabe H  Hattori M  Sakaki Y  Ishikawa H   Genome sequence of the endocellular bacterial symbiont of aphids Buchnera  sp. APS Nature 2000 407 81 86 10993077
+element-citation;;;;Tamas I  Klasson L  Canback B  Naslund AK  Eriksson A-S   50 million years of genomic stasis in endosymbiotic bacteria Science 2002 296 2376 2379 12089438
+element-citation;;;;Toth L   Über die frühembryonale Entwicklung der viviparen Aphiden Zeit Morphol Ökol Tiere 1933 27 692 731
+element-citation;;;;Toth L   Entwicklungszyklus und Symbiose von  Pemphigus spyrothecae  Pass. (Aphidina) Zeit Morphol Ökol Tiere 1938 33 412 437
+element-citation;;;;Uichanco LB   Studies on the embryogeny and postnatal development of the Aphididae with special reference to the history of the “symbiotic organ” or “Mycetom” Phillip J Science 1924 24 143 247
+element-citation;;;;van Ham RCHJ  Kamerbeek J  Palacios C  Rausell C  Abascal F   Reductive genome evolution in  Buchnera aphidicola  Proc Natl Acad Sci U S A 2003 100 581 586 12522265
+element-citation;;;;von Dohlen CD  Moran NA   Molecular data support a rapid radiation of aphids in the Cretaceous and multiple origins of host alternation Biol J Linn Soc 2000 71 689 717
+element-citation;;;;Weatherbee SD  Nijhout HF  Grunert LW  Halder G  Galant R   Ultrabithorax  function in butterfly wings and the evolution of insect wing patterns Curr Biol 1999 9 109 115 10021383
+element-citation;;;;Wilkinson T   The elimination of intracellular microorganisms from insects: An analysis of antibiotic-treatment in the pea aphid ( Acyrthosiphon pisum ) Comp Biochem Physiol A Mol Integr Physiol 1998 119 871 881

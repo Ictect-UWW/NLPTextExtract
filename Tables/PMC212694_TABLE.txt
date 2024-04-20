@@ -1,0 +1,7 @@
+name;;;;Gibson Greg
+element-citation;;;;Alizadeh AA  Eisen MB  Davis RE  Ma C  Lossos IS   Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling Nature 2000 403 503 511 10676951
+element-citation;;;;Bozdech Z  Llinás M  Pullium BL  Wong ED  Zhu J   The transcriptome of the intraerythrocytic developmental cycle of  Plasmodium falciparum  PLoS Biol 2003 1 e5 10.1371/journal.pbio.0000005
+element-citation;;;;Ideker T  Thorsson V  Ranish J  Christmas R  Buhler J   Integrated genomic and proteomic analyses of a systematically perturbed metabolic network Science 2001 292 929 934 11340206
+element-citation;;;;Toma DP  White KP  Hirsch J  Greenspan RJ   Identification of genes involved in  Drosophila melanogaster  geotaxis, a complex behavioral trait Nat Genet 2002 31 349 353 12042820
+element-citation;;;;van't Veer LJ  Dai H  van de Vijver MJ  He YD  Hart AA   Gene expression profiling predicts clinical outcome of breast cancer Nature 2002 415 530 536 11823860
+element-citation;;;;Velculescu VE   Tantalizing transcriptomes: SAGE and its use in global gene expression analysis Science 1999 286 1491 1492 10610550

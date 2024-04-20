@@ -1,0 +1,6 @@
+name;;;;O'Neill Bill
+element-citation;;;;Elena SF  Lenski RE   Test of synergistic interactions among deleterious mutations in bacteria Nature 1997 390 395 398 9389477
+element-citation;;;;Elena SF  Lenski RE   Evolution experiments with microorganisms: The dynamics and genetic bases of adaptation Nat Rev Genet 2003 4 457 469 12776215
+element-citation;;;;Lenski RE  Ofria C  Collier TC  Adami C   Genome complexity, robustness, and genetic interactions in digital organisms Nature 1999 400 661 664 10458160
+element-citation;;;;Lenski RE  Ofria C  Pennock RT  Adami C   The evolutionary origin of complex features Nature 2003 423 139 144 12736677
+element-citation;;;;Wilke CO  Adami C   The biology of digital organisms Trends Ecol Evol 2002 17 528 532

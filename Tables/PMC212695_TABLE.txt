@@ -1,0 +1,19 @@
+name;;;;Market Eleonora
+name;;;;Papavasiliou F. Nina
+element-citation;;;;Akira S  Okazaki K  Sakano H   Two pairs of recombination signals are sufficient to cause immunoglobulin V-(D)-J joining Science 1987 238 1134 1138 3120312
+element-citation;;;;Bassing CH  Swat W  Alt FW   The mechanism and regulation of chromosomal V(D)J recombination Cell 2002 109 S45 S55 11983152
+element-citation;;;;Bosma M  Schuler W  Bosma G   The scid mouse mutant Curr Top Microbiol Immunol 1988 137 197 202 3416632
+element-citation;;;;Fugmann SD  Lee AI  Shockett PE  Villey IJ  Schatz DG   The RAG proteins and V(D)J recombination: Complexes, ends, and transposition Annu Rev Immunol 2000 18 495 527 10837067
+element-citation;;;;Gao Y  Chaudhuri J  Zhu C  Davidson L  Weaver DT   A targeted DNA-PKcs-null mutation reveals DNA-PK-independent functions for KU in V(D)J recombination Immunity 1998 9 367 376 9768756
+element-citation;;;;Gellert M   V(D)J recombination: RAG proteins, repair factors, and regulation Annu Rev Biochem 2002 71 101 132 12045092
+element-citation;;;;Lee AI  Fugmann SD  Cowell LG  Ptaszek LM  Kelsoe G   A functional analysis of the spacer of V(D)J recombination signal sequences PLoS Biol 2003 1 e1 10.1371/journal.pbio.0000001
+element-citation;;;;McBlane JF  van Gent DC  Ramsden DA  Romeo C  Cuomo CA   Cleavage at a V(D)J recombination signal requires only RAG1 and RAG2 proteins and occurs in two steps Cell 1995 83 387 395 8521468
+element-citation;;;;Mombaerts P  Iacomini J  Johnson RS  Herrup K  Tonegawa S   RAG-1-deficient mice have no mature B and T lymphocytes Cell 1992 68 869 877 1547488
+element-citation;;;;Schatz DG  Baltimore D   Stable expression of immunoglobulin gene V(D)J recombinase activity by gene transfer into 3T3 fibroblasts Cell 1988 53 107 115 3349523
+element-citation;;;;Schatz DG  Oettinger MA  Baltimore D   The V(D)J recombination activating gene, RAG-1  Cell 1989 59 1035 1048 2598259
+element-citation;;;;Schluter SF  Bernstein RM  Bernstein H  Marchalonis JJ   ‘Big Bang’ emergence of the combinatorial immune system Dev Comp Immunol 1999 23 107 111 10227478
+element-citation;;;;Shih IH  Melek M  Jayaratne ND  Gellert M   Inverse transposition by the RAG1 and RAG2 proteins: Role reversal of donor and target DNA EMBO J 2002 21 6625 6633 12456668
+element-citation;;;;Shinkai Y  Rathbun G  Lam KP  Oltz EM  Stewart V   RAG-2-deficient mice lack mature lymphocytes owing to inability to initiate V(D)J rearrangement Cell 1992 68 855 867 1547487
+element-citation;;;;Tonegawa S   Somatic generation of antibody diversity Nature 1983 302 575 581 6300689
+element-citation;;;;van Gent DC  McBlane JF  Ramsden DA  Sadofsky MJ  Hesse JE   Initiation of V(D)J recombination in a cell-free system Cell 1995 81 925 934 7781069
+element-citation;;;;Villa A  Santagata S  Bozzi F  Giliani S  Frattini A   Partial V(D)J recombination activity leads to Omenn syndrome Cell 1998 93 885 896 9630231

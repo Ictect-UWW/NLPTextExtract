@@ -1,0 +1,54 @@
+name;;;;Fernando Prithiviraj
+name;;;;Vidya T. N. C
+name;;;;Payne John
+name;;;;Stuewe Michael
+name;;;;Davison Geoffrey
+name;;;;Alfred Raymond J
+name;;;;Andau Patrick
+name;;;;Bosi Edwin
+name;;;;Kilbourn Annelisa
+name;;;;Melnick Don J
+aff;;;;Center for Environmental Research and Conservation, Columbia University New York, New York United States of America
+aff;;;;Department of Ecology, Evolution, and Environmental Biology, Columbia University New York, New York United States of America
+aff;;;;Center for Ecological Sciences, Indian Institute of Science Bangalore India
+aff;;;;World Wide Fund for Nature–Malaysia Kota Kinabalu, Sabah Malaysia
+aff;;;;Asian Rhino and Elephant Action Strategy Programme, World Wildlife Fund Washington, District of Columbia United States of America
+aff;;;;Sabah Wildlife Department Kota Kinabalu, Sabah Malaysia
+aff;;;;Field Veterinary Program, Wildlife Conservation Society Bronx, New York United States of America
+element-citation;;;;Andaya B Perak, the abode of grace: A study of an eighteenth-century Malay state 1979 462
+element-citation;;;;Banks MA  Eichert W   WHICHRUN (version 3.2): A computer program for population assignment of individuals based on multilocus genotype data J Hered 2000 91 87 89 10739137
+element-citation;;;;Clement M  Derington J  Posada D TCS: Estimating gene genealogies. Version 1.13 2001
+element-citation;;;;Cornuet JM  Luikart G   Description and power analysis of two tests for detecting recent population bottlenecks from allele frequency data Genetics 1996 144 2001 2014 8978083
+element-citation;;;;Deraniyagala PEP   The elephant of Asia Proc Ceylon Assoc Sci 1950 3 1 18
+element-citation;;;;Deraniyagala PEP Some extinct elephants, their relatives, and the two living species 1955 161
+element-citation;;;;deSilva GS   Elephants of Sabah J Sabah Soc 1968 3 169 181
+element-citation;;;;Fernando P   Keeping jumbo afloat: Is translocation an answer to the human–elephant conflict? Sri Lanka Nature 1997 1 4 12
+element-citation;;;;Fernando P  Lande R   Molecular genetic and behavioral analyses of social organization in the Asian elephant Behav Ecol Sociobiol 2000 48 84 91
+element-citation;;;;Fernando P  Pfrender ME  Encalada S  Lande R   Mitochondrial DNA variation, phylogeography, and population structure of the Asian elephant Heredity 2000 84 362 372 10762406
+element-citation;;;;Fernando P  Vidya TNC  Melnick DJ   Isolation and characterisation of tri- and tetranucleotide microsatellite loci in the Asian elephant,  Elephas maximus  Mol Ecol Notes 2001 1 232 233
+element-citation;;;;Fernando P  Vidya TNC  Rajapakse C  Dangolla A  Melnick DJ   Reliable non-invasive genotyping: Fantasy or reality? J Hered 2003 94 115 123 12721223
+element-citation;;;;Fleischer RC  Perry EA  Muralidharan K  Stevens EE  Wemmer CM   Phylogeography of the Asian elephant ( Elephas maximus ) based on mitochondrial DNA Evolution 2001 55 1882 1892 11681743
+element-citation;;;;Guo SW  Thompson EA   Performing the exact test of Hardy–Weinberg proportions for multiple alleles Biometrics 1992 48 361 372 1637966
+element-citation;;;;Harrisson T  Harrisson B   The prehistory of Sabah Sabah Soc J Monogr 1971 4 1 272
+element-citation;;;;Hooijer DA   Prehistoric evidence for  Elephas maximus  L. in Borneo Nature 1972 239 228
+element-citation;;;;Louis EJ  Dempster ER   An exact test for Hardy–Weinberg and multiple alleles Biometrics 1987 43 805 811 3427165
+element-citation;;;;Luikart G  Allendorf FW  Cornuet JM  Sherwin WB   Distortion of allele frequency distributions provides a test for recent population bottlenecks J Hered 1998a 89 238 247 9656466
+element-citation;;;;Luikart G  Sherwin WB  Steele BM  Allendorf FW   Usefulness of molecular markers for detecting population bottlenecks via monitoring genetic change Mol Ecol 1998b 7 963 974 9711862
+element-citation;;;;MacKinnon K  Hatta G  Halim H  Mangalik A The ecology of Kalimantan 1996 802
+element-citation;;;;Marsden W The history of Sumatra 1986 [1811] 532
+element-citation;;;;Maruyama T  Fuerst PA   Population bottlenecks and non-equilibrium models in population genetics. II. Number of alleles in a small population that was formed by a recent bottleneck Genetics 1985 111 675 689 4054612
+element-citation;;;;McComb K  Moss C  Durant SM  Baker L  Sayialel S   Matriarchs as repositories of social knowledge in African elephants Science 2001 292 491 494 11313492
+element-citation;;;;Medway L   Mammals of Borneo Monogr Malay Br R Asia Soc 1977 7 1 172
+element-citation;;;;Moritz C   Defining ‘evolutionary significant units' for conservation Trends Ecol Evol 1994 9 373 375 21236896
+element-citation;;;;Nei M  Maruyama T  Chakraborty R   The bottleneck effect and genetic variability in populations Evolution 1975 29 1 10
+element-citation;;;;Nyakaana S  Arctander P   Isolation and characterisation of microsatellite loci in the African elephant ( Loxodonta africana  Blumenbach 1797) Mol Ecol 1998 7 1436 1437 9787454
+element-citation;;;;Piry S  Luikart G  Cornuet JM   BOTTLENECK: A program for detecting recent effective population size reductions from allele frequency data 1997
+element-citation;;;;Raymond M  Rousset F   GENEPOP (version 1.2): Population genetics software for exact tests and ecumenicism J Hered 1995 86 248 249
+element-citation;;;;Ryder OA   Species conservation and systematics: The dilemma of subspecies Trends Ecol Evol 1986 1 9 10
+element-citation;;;;Schneider S  Roessli D  Excoffier L Arlequin: A software for population genetics data analysis. Version 2.000 2000
+element-citation;;;;Shoshani J  Eisenberg JF   Elephas maximus  Mamm Sp 1982 182 1 8
+element-citation;;;;Sukumar R The Asian elephant: Ecology and management 1989 272
+element-citation;;;;Swofford DL PAUP*: Phylogenetic analysis using parsimony (and other methods). Version 4 1998
+element-citation;;;;Weir BS  Cockerham CC   Estimating F -statistics for the analysis of population structure Evolution 1984 38 1358 1370
+element-citation;;;;Whitehouse AM  Harley EH   Post-bottleneck genetic diversity of elephant populations in South Africa, revealed using microsatellite analysis Mol Ecol 2001 10 2139 2149 11555257
+element-citation;;;;Williams CL  Serfass TL  Cogan R  Rhodes OE   Microsatellite variation in the reintroduced Pennsylvania elk herd Mol Ecol 2002 11 1299 1310 12144652

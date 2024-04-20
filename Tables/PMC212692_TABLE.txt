@@ -1,0 +1,28 @@
+name;;;;Simmer Femke
+name;;;;Moorman Celine
+name;;;;van der Linden Alexander M
+name;;;;Kuijk Ewart
+name;;;;van den Berghe Peter V.E
+name;;;;Kamath Ravi S
+name;;;;Fraser Andrew G
+name;;;;Ahringer Julie
+name;;;;Plasterk Ronald H. A
+aff;;;;Hubrecht Laboratory, Centre for Biomedical Genetics Utrecht The Netherlands
+aff;;;;University of Cambridge, Wellcome Trust/Cancer Research Institute and Department of Genetics Cambridge United Kingdom
+element-citation;;;;Ashrafi K  Chang FY  Watts JL  Fraser AG  Kamath RS   Genome-wide RNAi analysis of  Caenorhabditis elegans  fat regulatory genes Nature 2003 421 268 272 12529643
+element-citation;;;;Dillin A  Hsu AL  Arantes-Oliveira N  Lehrer-Graiwer J  Hsin H   Rates of behavior and aging specified by mitochondrial function during development Science 2002 298 2398 2401 12471266
+element-citation;;;;Fire A  Xu S  Montgomery MK  Kostas SA  Driver SE   Potent and specific genetic interference by double-stranded RNA in  Caenorhabditis elegans  Nature 1998 391 806 811 9486653
+element-citation;;;;Fraser AG  Kamath RS  Zipperlen P  Martinez-Campos M  Sohrmann M   Functional genomic analysis of  C. elegans  chromosome I by systematic RNA interference Nature 2000 408 325 330 11099033
+element-citation;;;;Gönczy P  Echeverri C  Oegema K  Coulson A  Jones SJM   Functional genomic analysis of cell division in  C. elegans  using RNAi of genes on chromosome III Nature 2000 408 331 336 11099034
+element-citation;;;;Kamath RS  Martinez-Campos M  Zipperlen P  Fraser AG  Ahringer J   Effectiveness of specific RNA-mediated interference through ingested double-stranded RNA in  Caenorhabditis elegans  Genome Biol 2000 2 1 10
+element-citation;;;;Kamath RS  Fraser AG  Dong Y  Poulin G  Durbin R   Systematic functional analysis of the  Caenorhabditis elegans  genome using RNAi Nature 2003 421 231 237 12529635
+element-citation;;;;Lee SS  Lee RYN  Fraser AG  Kamath RS  Ahringer J   A systematic RNAi screen identifies a critical role for mitochondria in  C. elegans  longevity Nat Genet 2003 33 40 48 12447374
+element-citation;;;;Maeda I  Kohara Y  Yamamoto M  Sugimoto A   Large-scale analysis of gene function in  Caenorhabditis elegans  by high-throughput RNAi Curr Biol 2001 11 171 176 11231151
+element-citation;;;;Montgomery MK  Xu S  Fire A   RNA as a target of double-stranded RNA-mediated genetic interference in  Caenorhabditis elegans  Proc Natl Acad Sci U S A 1998 95 15502 15507 9860998
+element-citation;;;;Park EC  Horvitz HR   Mutations with dominant effects on the behavior and morphology of the nematode  Caenorhabditis elegans  Genetics 1986 113 821 852 3744028
+element-citation;;;;Piano F  Schetter AJ  Morton DG  Gunsalus KC  Reinke V   Gene clustering based on RNAi phenotypes of ovary-enriched genes in  C. elegans  Curr Biol 2002 12 1959 1965 12445391
+element-citation;;;;Pothof J  van Haaften G  Thijssen K  Kamath RS  Fraser FG   Identification of genes that protect the  C. elegans  genome against mutations by genome-wide RNAi Genes Dev 2003 17 443 448 12600937
+element-citation;;;;Sijen T  Fleenor J  Simmer F  Thijssen KL  Parrish S   On the role of the RNA amplification in dsRNA-triggered gene silencing Cell 2001 107 465 476 11719187
+element-citation;;;;Simmer F  Tijsterman M  Parrish S  Koushika SP  Nonet M   Loss of the putative RNA-directed RNA polymerase RRF-3 makes  C. elegans  hypersensitive to RNAi Curr Biol 2002 12 1317 1319 12176360
+element-citation;;;;Smardon A  Spoerke JM  Stacey SC  Klein ME  Mackin N   EGO-1 is related to RNA-directed RNA polymerase and functions in germ-line development and RNA interference in  C. elegans  Curr Biol 2000 10 169 178 10704412
+element-citation;;;;Timmons L  Fire A   Specific interference by ingested dsRNA Nature 1998 395 854 9804418
